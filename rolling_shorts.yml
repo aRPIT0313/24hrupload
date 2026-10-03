@@ -1,5 +1,8 @@
 name: Rolling 8 Shorts
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # 10:00 PM IST = 4:30 PM UTC -> publish 12 AM-7 AM IST
