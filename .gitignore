@@ -1,0 +1,53 @@
+# =========================
+# SECRETS
+# =========================
+.env
+.env.*
+!.env.example
+
+client_secret.json
+youtube_token.json
+*.pem
+*.key
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# =========================
+# GENERATED MEDIA
+# =========================
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.mov
+*.avi
+*.webm
+
+output/
+outputs/
+generated/
+temp/
+tmp/
+
+# =========================
+# LOCAL APP DATA
+# =========================
+.streamlit/secrets.toml
+
+# Don't upload local caches
+.cache/
+.cache_*/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db

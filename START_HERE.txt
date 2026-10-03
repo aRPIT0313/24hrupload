@@ -1,0 +1,13 @@
+AI SHORTS STUDIO — MANUAL SCHEDULING V2
+
+Run Streamlit from THIS folder.
+
+1. Open terminal in this folder.
+2. pip install -r requirements.txt --upgrade
+3. streamlit run app.py
+4. Select 🚀 24 Shorts / Day.
+5. Scroll to PUBLISHING MODE.
+6. Choose ✋ I'll choose the times.
+7. Enter the exact date/time for each Short.
+
+This build also keeps topic-specific curiosity CTAs: Gemini generates a separate CTA for each Short.

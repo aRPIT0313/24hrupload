@@ -1,0 +1,15 @@
+GEMINI BOTTLENECK FIX
+
+- 24 script generations are combined into ONE Gemini script request.
+- The Gemini SDK automatic retries are disabled (attempts=1), preventing hidden retry amplification.
+- A controlled retry layer handles transient 429/499/5xx failures with exponential backoff + jitter.
+- Script fallback models: gemini-3.1-flash-lite -> gemini-3.5-flash-lite -> gemini-3.5-flash.
+- TTS fallback models: gemini-3.1-flash-tts-preview -> gemini-2.5-flash-preview-tts.
+- GEMINI_MIN_INTERVAL defaults to 3 seconds between Gemini calls.
+- Fresh Google News RSS headlines are used to create a small configurable trend mix.
+- Existing semantic no-repeat history and the six already-published topics remain protected.
+- After successful YouTube upload, generated files are deleted; only title history remains.
+
+A true daily quota cannot be bypassed by code. If the project has exhausted a daily quota,
+wait for reset or use a project/tier with more quota. These changes target burst/rate limits,
+transient 503 overloads, hidden SDK retries, and unnecessary script-generation calls.

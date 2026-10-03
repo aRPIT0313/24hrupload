@@ -1,0 +1,15 @@
+Cleaned project notes
+====================
+
+Removed from the distributable project:
+- __pycache__/ and *.pyc: generated Python cache files; never needed in source control.
+- client_secret.json: OAuth secret file; keep your own local copy and do not share it.
+- long_tts.py and long_video.py: legacy long-form implementation; app.py uses long_generator.py.
+- shorts_generator.py and shorts_trend_discovery.py: not imported by the current app flow.
+- visual_lab.py: experimental module not imported by the current app flow.
+- output/: generated videos/assets; recreated automatically when needed.
+
+Kept:
+- app.py and all modules imported by the current app.
+- daily_runner.py because it is a separate runnable automation entry point.
+- documentation, requirements, history/metadata JSON files, and .env.example.

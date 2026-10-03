@@ -1,0 +1,29 @@
+VISUAL LAB — EXPERIMENT
+
+This build adds a separate "🎬 Visual Lab (EXPERIMENT)" mode in app.py.
+
+IMPORTANT:
+- It does not modify the production 20-second Short workflow.
+- It does not modify the 24 Shorts scheduler.
+- It does not upload or schedule anything.
+- It only generates a downloadable experimental MP4.
+
+What it tests:
+1. Gemini visual-director planning.
+2. Pexels video when motion is useful.
+3. Wikimedia Commons reference/archival imagery as a free fallback.
+4. Generated editorial graphics, timelines and comparisons.
+5. Subtle push-ins/pans and scene-specific overlays.
+6. A dedicated first-2-second visual hook.
+
+Before publishing Wikimedia media, review the license/artist shown in the app.
+Some Wikimedia files require attribution or have license conditions.
+
+Run:
+    pip install -r requirements.txt
+    streamlit run app.py
+
+Then select:
+    🎬 Visual Lab (EXPERIMENT)
+
+Nothing from this experiment is automatically merged into production.

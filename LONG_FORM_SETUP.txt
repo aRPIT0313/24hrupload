@@ -1,0 +1,12 @@
+LONG-FORM SETTINGS
+
+- Format: 3 or 4 minute videos only.
+- Topic mode 1: user enters the topic.
+- Topic mode 2: AI chooses a fresh topic using recent YouTube performance data.
+- AI topic selection is included in the main Gemini planning request; it does NOT make a separate Gemini request.
+- Publish timing: user selects Publish now or exact scheduled date/time (Asia/Kolkata).
+- Narration: ONE Gemini TTS request per generated video. Do not split narration into sections.
+- Voice processing: gentle compression + final loudness normalization to keep quiet words intelligible and reduce late-video whisper/weakness.
+- Voice preview: cached by voice + style so repeated previews do not spend another TTS request.
+- Visual planning: capped at 28 candidates for a 3–4 minute video to reduce Gemini output-token usage while retaining enough visual coverage.
+- Do not add extra Gemini calls unless required for an actual failure/retry.

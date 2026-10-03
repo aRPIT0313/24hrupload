@@ -1,0 +1,25 @@
+YOUTUBE ANALYTICS SETUP
+=======================
+
+The project now reads YouTube Analytics so it can learn from your recent Shorts.
+
+1. In Google Cloud Console, keep YouTube Data API v3 enabled.
+2. Enable YouTube Analytics API for the same project.
+3. The OAuth consent screen/test user must include the Google account that owns the channel.
+4. Click "Connect / Reconnect YouTube" in Streamlit.
+5. Google will ask for upload + read-only YouTube permissions. Accept both.
+6. After authorization, the dashboard can show Shorts from the last 7 days.
+
+The Analytics API is used for:
+- views
+- engaged views
+- average view percentage
+- average view duration
+- likes
+- comments
+- shares
+- subscribers gained/lost
+
+The optimizer also compares the publish hour and weekday of your recent Shorts.
+This is a historical performance signal, not a direct "viewers online right now" feed.
+YouTube's Analytics API does not expose a simple per-hour audience-online metric for this workflow.

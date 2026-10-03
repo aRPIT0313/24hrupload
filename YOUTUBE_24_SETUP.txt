@@ -1,0 +1,162 @@
+AI VIDEO GENERATOR — 24 SHORTS / DAY SETUP
+================================================
+
+1. Install dependencies
+------------------------
+Open a terminal in this folder:
+
+    pip install -r requirements.txt
+
+
+2. Keep your existing API keys
+------------------------------
+Create a file named ".env" from ".env.example":
+
+    GEMINI_API_KEY=your_key_here
+    PEXELS_API_KEY=your_key_here
+
+Do NOT commit .env to GitHub.
+
+
+3. Configure YouTube API
+------------------------
+A. Open Google Cloud Console.
+B. Create/select a Google Cloud project.
+C. Enable "YouTube Data API v3".
+D. Configure the OAuth consent screen.
+E. Create an OAuth 2.0 Client ID with application type:
+   "Desktop app".
+F. Download the JSON file and save it in this project folder as:
+
+    client_secret.json
+
+The app requests the YouTube upload OAuth scope only.
+
+
+4. First connection
+-------------------
+Run:
+
+    streamlit run app.py
+
+Select:
+
+    🚀 24 Shorts / Day
+
+Click:
+
+    Connect YouTube
+
+Complete Google's authorization in the browser.
+
+After successful authorization, the app creates:
+
+    youtube_token.json
+
+That token is local and should never be committed.
+
+
+5. Schedule 24 Shorts
+---------------------
+Choose:
+- Channel niche
+- Style
+- Voice
+- First publish date
+- First publish time
+- Timezone
+
+Then click:
+
+    Generate & Schedule 24 Shorts
+
+The app:
+- asks Gemini for 24 distinct topics
+- generates each Short with your existing generator
+- generates TTS
+- finds portrait Pexels footage
+- renders the MP4
+- saves a local copy under output/scheduled_shorts/
+- uploads it to YouTube
+- schedules it one hour apart
+
+The process is sequential to reduce API rate-limit failures.
+
+
+6. Important YouTube API restriction
+------------------------------------
+Google currently states that videos uploaded with videos.insert from
+unverified API projects created after July 28, 2020 are restricted to
+private viewing until the project passes the required audit.
+
+That means the automation can upload/schedule the videos, but you may need
+to complete Google's API project audit before those scheduled videos can
+actually become public.
+
+
+7. AI disclosure
+----------------
+YouTube requires disclosure when AI meaningfully alters or generates
+content that appears realistic (for example, a realistic synthetic scene,
+altered real event/place, or a real person made to appear to do/say
+something they did not).
+
+The batch screen therefore includes:
+
+    Disclose realistic AI / altered media
+
+Turn it on when the video's content meets YouTube's disclosure criteria.
+
+
+8. FFmpeg
+----------
+Your existing renderer currently uses a hard-coded Windows FFmpeg path in
+video_engine.py. If FFmpeg is installed elsewhere, update FFMPEG_PATH.
+
+For a more portable setup, replace that path with the location of your
+ffmpeg.exe or put FFmpeg on PATH.
+
+
+9. Running unattended
+---------------------
+The current "Generate & Schedule 24 Shorts" button is intentionally a
+foreground batch job. You do NOT need to keep the browser open for the
+videos to publish after they have been successfully scheduled on YouTube.
+
+You DO need the computer/process running while the 24 Shorts are being
+generated and uploaded.
+
+After all 24 are scheduled, YouTube handles the hourly publishing.
+
+For a true overnight/automatic daily system, the next step is to move the
+batch runner into a scheduled Windows Task Scheduler job (or a server).
+
+10. Optional: make it run automatically every day
+--------------------------------------------------
+The project includes daily_runner.py.
+
+After you have completed YouTube OAuth once, you can run:
+
+    python daily_runner.py
+
+It reads the optional DAILY_* settings from .env, generates 24 new topics
+while avoiding recently used topics, creates the 24 Shorts, and schedules
+them one hour apart.
+
+For Windows, use Task Scheduler:
+- Create a basic task.
+- Trigger: Daily, at your chosen time.
+- Action: Start a program.
+- Program: path to your Python executable.
+- Arguments: path\to\daily_runner.py
+- Start in: the ai_gen project folder.
+
+Recommended: run the daily task early enough that the first publishing slot
+is still in the future. The task only needs to run while generation/uploading
+is happening; YouTube handles publication afterward.
+
+The daily runner writes:
+    daily_runner.log
+    topic_history.json
+
+Keep these files local and do not commit secrets.

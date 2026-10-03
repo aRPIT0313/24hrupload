@@ -1,0 +1,54 @@
+SHORT QUALITY SYSTEM
+====================
+
+The adaptive Shorts pipeline now optimizes for scroll-stop + subscribers, not generic facts.
+
+1. TOPIC QUALITY GATE
+- Gemini creates a large candidate pool before writing scripts.
+- Candidates are scored for hook strength, broad appeal, visual strength, surprise,
+  shareability and subscriber potential.
+- Candidates with weak hooks, narrow appeal or high technicality are rejected.
+- Duplicate underlying subjects are rejected, not just duplicate titles.
+- Fresh trend candidates are mixed with evergreen candidates.
+
+2. HOOK ENGINE
+- Every Short gets 3 hook options.
+- Gemini selects the strongest hook.
+- The selected hook is forced to be the first spoken sentence.
+- The first visual is forced to display the selected hook.
+- The first scene is ~2 seconds rather than an equal-duration scene.
+
+3. STORY STRUCTURE
+- 0-2 sec: scroll-stop hook
+- 2-6 sec: setup
+- 6-12 sec: escalation
+- 12-18 sec: reveal/payoff
+- 18-23 sec: satisfying final detail
+- 23-26 sec: curiosity CTA
+
+4. SUBSCRIBER CTA
+- Every Short receives a topic-specific curiosity CTA.
+- Gemini generates the CTA separately for each Short.
+- Generic repeated CTAs are prohibited.
+- CTA is part of the spoken voiceover and comes after the payoff.
+
+5. ADAPTIVE LEARNING
+The system tracks recent Shorts and learns:
+- comparable/engaged performance
+- retention when Analytics is available
+- subscribers per 1,000 comparable views
+- category performance
+- hook-style performance
+- title-word signals
+- publish-hour performance
+- weekday performance
+
+Older Shorts without saved metadata receive coarse category/hook labels inferred from titles,
+so existing channel history can still contribute to learning.
+
+6. PUBLISHING
+- AI mode: automatically chooses historically stronger windows while exploring nearby windows.
+- Manual mode: user can specify the exact date/time for every Short.
+
+The system does not guarantee a particular number of views or subscribers. It is designed to
+continuously improve the probability of strong cold-viewer retention and subscriber conversion.
