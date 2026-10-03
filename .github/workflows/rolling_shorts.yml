@@ -13,8 +13,6 @@ on:
     - cron: '30 8 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
 
 concurrency:
   group: rolling-shorts
