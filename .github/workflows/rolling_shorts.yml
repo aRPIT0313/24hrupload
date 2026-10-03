@@ -1,0 +1,57 @@
+name: Rolling 8 Shorts
+
+permissions:
+  contents: write
+  
+on:
+  schedule:
+    # 10:00 PM IST = 4:30 PM UTC -> publish 12 AM-7 AM IST
+    - cron: '30 16 * * *'
+    # 06:00 AM IST = 12:30 AM UTC -> publish 8 AM-3 PM IST
+    - cron: '30 0 * * *'
+    # 02:00 PM IST = 08:30 AM UTC -> publish 4 PM-11 PM IST
+    - cron: '30 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rolling-shorts
+  cancel-in-progress: false
+
+jobs:
+  generate-and-schedule:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+      YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
+      SHORT_STYLE: Documentary
+      SHORT_VOICE: Kore
+      PYTHONUNBUFFERED: '1'
+
+    steps:
+      - name: Checkout current project + shared history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run 8-Short rolling batch
+        env:
+          GITHUB_ACTIONS: 'true'
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: python auto_batch.py
