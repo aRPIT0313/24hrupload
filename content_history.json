@@ -1,6 +1,158 @@
 {
   "shorts": [
     {
+      "video_id": "3-C1_Lvz-ek",
+      "content_type": "shorts",
+      "title": "The Mirror Paradox Revealed",
+      "core_subject": "The Mirror Paradox Revealed",
+      "topic": "The Mirror Paradox Revealed",
+      "description": "Why do mirrors flip left to right? It’s not the glass, it’s your brain. #shorts #science #optics",
+      "tags": [
+        "optics",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T13:30:34Z",
+      "duration": "PT26S",
+      "views": 49,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "v4pSaFcDOmo",
+      "content_type": "shorts",
+      "title": "The Science of Attraction",
+      "core_subject": "The Science of Attraction",
+      "topic": "The Science of Attraction",
+      "description": "Your pupils don't just react to light. They react to love. #shorts #psychology #biology",
+      "tags": [
+        "biology",
+        "psychology",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T11:42:43Z",
+      "duration": "PT29S",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "uSYk9YOVyrg",
+      "content_type": "shorts",
+      "title": "The Voice Recording Mystery",
+      "core_subject": "The Voice Recording Mystery",
+      "topic": "The Voice Recording Mystery",
+      "description": "Why do you hate your recorded voice? It's physics. #shorts #science #audio",
+      "tags": [
+        "audio",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T11:41:01Z",
+      "duration": "PT26S",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "ugZbDjPJX1k",
+      "content_type": "shorts",
+      "title": "Why You Don't See Your Nose",
+      "core_subject": "Why You Don't See Your Nose",
+      "topic": "Why You Don't See Your Nose",
+      "description": "Your brain filters out your nose to help you see better. #shorts #psychology #brain",
+      "tags": [
+        "brain",
+        "psychology",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T11:39:38Z",
+      "duration": "PT25S",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "gTYVRgSZEvA",
+      "content_type": "shorts",
+      "title": "The Strength of Silk",
+      "core_subject": "The Strength of Silk",
+      "topic": "The Strength of Silk",
+      "description": "Spider silk is nature's high-performance fiber. #shorts #science #engineering",
+      "tags": [
+        "engineering",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T11:37:57Z",
+      "duration": "PT26S",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "yRKnOfhNo-4",
+      "content_type": "shorts",
+      "title": "Animal Stargazers",
+      "core_subject": "Animal Stargazers",
+      "topic": "Animal Stargazers",
+      "description": "Even insects have mastered space travel. #shorts #nature #biology",
+      "tags": [
+        "biology",
+        "nature",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T11:36:24Z",
+      "duration": "PT23S",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "4Vl0rAdwjHE",
+      "content_type": "shorts",
+      "title": "Why the Moon Stays Put",
+      "core_subject": "Why the Moon Stays Put",
+      "topic": "Why the Moon Stays Put",
+      "description": "Gravity doesn't just pull, it creates orbits. #shorts #space #physics",
+      "tags": [
+        "physics",
+        "shorts",
+        "space"
+      ],
+      "publishedAt": "2026-10-04T11:34:58Z",
+      "duration": "PT24S",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "-gRhn2sjZzs",
+      "content_type": "shorts",
+      "title": "The Octopus Neural Network",
+      "core_subject": "The Octopus Neural Network",
+      "topic": "The Octopus Neural Network",
+      "description": "The octopus brain is spread throughout its entire body. #shorts #biology #nature",
+      "tags": [
+        "biology",
+        "nature",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T11:33:49Z",
+      "duration": "PT27S",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
       "video_id": "tDIl8_4z7F0",
       "content_type": "shorts",
       "title": "The Jellyfish Paradox",
@@ -14,8 +166,8 @@
       ],
       "publishedAt": "2026-10-03T23:30:03Z",
       "duration": "PT24S",
-      "views": 103,
-      "likes": 3,
+      "views": 240,
+      "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -33,8 +185,8 @@
       ],
       "publishedAt": "2026-10-03T22:30:34Z",
       "duration": "PT23S",
-      "views": 162,
-      "likes": 3,
+      "views": 343,
+      "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -52,8 +204,8 @@
       ],
       "publishedAt": "2026-10-03T20:30:02Z",
       "duration": "PT25S",
-      "views": 51,
-      "likes": 2,
+      "views": 87,
+      "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -71,7 +223,7 @@
       ],
       "publishedAt": "2026-10-03T19:30:09Z",
       "duration": "PT24S",
-      "views": 36,
+      "views": 39,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -90,7 +242,7 @@
       ],
       "publishedAt": "2026-10-03T18:30:02Z",
       "duration": "PT25S",
-      "views": 86,
+      "views": 121,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -109,7 +261,7 @@
       ],
       "publishedAt": "2026-10-03T13:27:47Z",
       "duration": "PT29S",
-      "views": 1006,
+      "views": 1009,
       "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
@@ -223,7 +375,7 @@
       ],
       "publishedAt": "2026-10-02T14:45:06Z",
       "duration": "PT24S",
-      "views": 721,
+      "views": 790,
       "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
@@ -242,7 +394,7 @@
       ],
       "publishedAt": "2026-10-02T14:15:32Z",
       "duration": "PT27S",
-      "views": 175,
+      "views": 180,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -333,7 +485,7 @@
       ],
       "publishedAt": "2026-09-30T15:30:12Z",
       "duration": "PT26S",
-      "views": 945,
+      "views": 946,
       "likes": 17,
       "comments": 1,
       "source": "youtube_sync"
@@ -390,7 +542,7 @@
       ],
       "publishedAt": "2026-09-30T12:30:09Z",
       "duration": "PT28S",
-      "views": 899,
+      "views": 900,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -754,7 +906,7 @@
       ],
       "publishedAt": "2026-09-26T14:45:25Z",
       "duration": "PT26S",
-      "views": 88,
+      "views": 90,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -1672,7 +1824,7 @@
       ],
       "publishedAt": "2026-09-14T15:38:05Z",
       "duration": "PT36S",
-      "views": 231,
+      "views": 232,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -6564,7 +6716,7 @@
       "tags": [],
       "publishedAt": "2026-04-17T11:17:44Z",
       "duration": "PT1M7S",
-      "views": 135,
+      "views": 136,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -6728,139 +6880,20 @@
       "source": "app_upload"
     },
     {
-      "video_id": "3-C1_Lvz-ek",
+      "video_id": "_p7VbThdYZs",
       "content_type": "shorts",
-      "title": "The Mirror Paradox Revealed",
-      "core_subject": "Optical reflection and spatial orientation",
-      "topic": "Why mirrors reverse left and right but not up and down",
+      "title": "The Physics of Cat Reflexes",
+      "core_subject": "Conservation of angular momentum",
+      "topic": "How do cats land on their feet?",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Your reflection doesn't actually flip left and right at all.",
-      "cta": "Subscribe to see your world differently.",
-      "specific_angle": "Mirrors actually reverse front-to-back, not side-to-side",
-      "primary_entity": "A mirror reflection",
-      "knowledge_gap": "Why mirrors seem to flip left/right but never up/down",
-      "subject_fingerprint": "back but down flip front left mirror never not optical orientation reflection reverse right seem side spatial up",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "-gRhn2sjZzs",
-      "content_type": "shorts",
-      "title": "The Octopus Neural Network",
-      "core_subject": "Distributed intelligence in cephalopods",
-      "topic": "How octopuses use their arms to 'think'",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Two-thirds of an octopus's brain actually lives in its arms.",
-      "cta": "Subscribe—there’s more to intelligence than just a skull.",
-      "specific_angle": "Two-thirds of an octopus's neurons live in its arms",
-      "primary_entity": "Giant Pacific Octopus",
-      "knowledge_gap": "How an octopus processes sensory information without a central brain",
-      "subject_fingerprint": "arms brain central cephalopod distributed giant information intelligence its live neuron octopu octopuse pacific processe s sensory their think third use without",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "4Vl0rAdwjHE",
-      "content_type": "shorts",
-      "title": "Why the Moon Stays Put",
-      "core_subject": "Orbital mechanics and gravity",
-      "topic": "Why the moon doesn't fall to Earth",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "The moon is falling toward Earth right this second.",
-      "cta": "Subscribe before gravity makes more sense than it should.",
-      "specific_angle": "The moon is falling, but it is moving sideways too fast",
-      "primary_entity": "The Moon orbiting Earth",
-      "knowledge_gap": "The relationship between gravity and velocity in orbit",
-      "subject_fingerprint": "between but doesn earth fall falling fast gravity it mechanic moon moving orbit orbital orbiting relationship sideway t too velocity",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "yRKnOfhNo-4",
-      "content_type": "shorts",
-      "title": "Animal Stargazers",
-      "core_subject": "Biological navigation (celestial navigation)",
-      "topic": "How animals navigate using the stars",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Dung beetles use the Milky Way to map their path.",
-      "cta": "Subscribe to discover hidden animal genius.",
-      "specific_angle": "Dung beetles use the Milky Way to travel in straight lines",
-      "primary_entity": "Dung Beetle",
-      "knowledge_gap": "How insects map their route using the night sky",
-      "subject_fingerprint": "animal beetle biological celestial dung insect line map milky navigate navigation night route sky star straight their travel use using way",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "gTYVRgSZEvA",
-      "content_type": "shorts",
-      "title": "The Strength of Silk",
-      "core_subject": "Biomaterials and tensile strength",
-      "topic": "How spider silk is stronger than steel",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Spider silk is pound-for-pound stronger than steel.",
-      "cta": "Subscribe—nature is engineering at its best.",
-      "specific_angle": "Molecular structure of spider silk outperforms high-grade steel",
-      "primary_entity": "Spider Silk",
-      "knowledge_gap": "Why protein-based fibers are tougher than processed metal",
-      "subject_fingerprint": "based biomaterial fiber grade high metal molecular outperform processed protein silk spider steel strength stronger structure tensile than tougher",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "ugZbDjPJX1k",
-      "content_type": "shorts",
-      "title": "Why You Don't See Your Nose",
-      "core_subject": "Sensory gating and selective attention",
-      "topic": "How your brain 'edits' your nose out of sight",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Your brain is actively editing your nose out of your vision.",
-      "cta": "Subscribe—your own body is hiding things from you.",
-      "specific_angle": "The brain purposefully filters the nose from your visual field",
-      "primary_entity": "Human nose/visual field",
-      "knowledge_gap": "Why we are 'nose-blind' visually",
-      "subject_fingerprint": "attention blind brain edit field filter gating human nose out purposefully selective sensory sight visual visually we",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "uSYk9YOVyrg",
-      "content_type": "shorts",
-      "title": "The Voice Recording Mystery",
-      "core_subject": "Acoustics and bone conduction",
-      "topic": "Why your voice sounds different on recordings",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "The voice you hear isn't what others hear.",
-      "cta": "Subscribe—your own ears are deceiving you.",
-      "specific_angle": "Bone conduction changes the sound of your own voice",
-      "primary_entity": "Human voice/Skull",
-      "knowledge_gap": "Why we sound lower and richer to ourselves",
-      "subject_fingerprint": "acoustic bone change conduction different human lower ourselve own recording richer skull sound voice we",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "v4pSaFcDOmo",
-      "content_type": "shorts",
-      "title": "The Science of Attraction",
-      "core_subject": "Autonomic nervous system response",
-      "topic": "Why your pupils dilate when you see someone you love",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Your eyes reveal your feelings before you do.",
-      "cta": "Subscribe—there’s more to human interaction than words.",
-      "specific_angle": "Dopamine release triggers involuntary pupillary response",
-      "primary_entity": "Human Pupil",
-      "knowledge_gap": "The physiological link between attraction and eye dilation",
-      "subject_fingerprint": "attraction autonomic between dilate dilation dopamine eye human involuntary link love nervou physiological pupil pupillary release response see someone system trigger",
+      "selected_hook": "Cats defy gravity by rotating their bodies mid-air without an external force.",
+      "cta": "Subscribe—your cat hides more physics secrets.",
+      "specific_angle": "How cats manipulate their body rotation mid-air",
+      "primary_entity": "Domestic cat",
+      "knowledge_gap": "Cats use their spine and tail to rotate without pushing off anything.",
+      "subject_fingerprint": "air angular anything body cat cats conservation domestic feet land manipulate mid momentum off pushing rotate rotation spine tail their use without",
       "source": "app_upload"
     }
   ],
@@ -6907,5 +6940,5 @@
       "source": "youtube_sync"
     }
   ],
-  "last_sync": "2026-10-04T11:29:12.022970+00:00"
+  "last_sync": "2026-10-04T15:26:53.798417+00:00"
 }
