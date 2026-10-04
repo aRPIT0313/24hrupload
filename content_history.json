@@ -1,6 +1,101 @@
 {
   "shorts": [
     {
+      "video_id": "tDIl8_4z7F0",
+      "content_type": "shorts",
+      "title": "The Jellyfish Paradox",
+      "core_subject": "The Jellyfish Paradox",
+      "topic": "The Jellyfish Paradox",
+      "description": "Evolutionary simplicity at its finest—how jellyfish survive without organs.",
+      "tags": [
+        "evolution",
+        "marinebiology",
+        "nature"
+      ],
+      "publishedAt": "2026-10-03T23:30:03Z",
+      "duration": "PT24S",
+      "views": 103,
+      "likes": 3,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "Sr3r8xKGpa0",
+      "content_type": "shorts",
+      "title": "Our Drifting Moon",
+      "core_subject": "Our Drifting Moon",
+      "topic": "Our Drifting Moon",
+      "description": "The moon is inching away—here is the physics behind its slow departure.",
+      "tags": [
+        "astronomy",
+        "physics",
+        "space"
+      ],
+      "publishedAt": "2026-10-03T22:30:34Z",
+      "duration": "PT23S",
+      "views": 162,
+      "likes": 3,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "p6uIjpQ8XXg",
+      "content_type": "shorts",
+      "title": "The Science of Self-Tickling",
+      "core_subject": "The Science of Self-Tickling",
+      "topic": "The Science of Self-Tickling",
+      "description": "Your brain is so smart that it stops you from feeling your own touch.",
+      "tags": [
+        "brain",
+        "neurology",
+        "psychology"
+      ],
+      "publishedAt": "2026-10-03T20:30:02Z",
+      "duration": "PT25S",
+      "views": 51,
+      "likes": 2,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "873ZRQELq4o",
+      "content_type": "shorts",
+      "title": "The Secret of Rectangular Eyes",
+      "core_subject": "The Secret of Rectangular Eyes",
+      "topic": "The Secret of Rectangular Eyes",
+      "description": "It’s not just a weird look—rectangular pupils are a high-level survival tool.",
+      "tags": [
+        "animals",
+        "nature",
+        "vision"
+      ],
+      "publishedAt": "2026-10-03T19:30:09Z",
+      "duration": "PT24S",
+      "views": 36,
+      "likes": 2,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "1FueofUddL4",
+      "content_type": "shorts",
+      "title": "Why Humans Are Born Prematurely",
+      "core_subject": "Why Humans Are Born Prematurely",
+      "topic": "Why Humans Are Born Prematurely",
+      "description": "Why are we so helpless at birth? It's a trade-off between brain size and biology.",
+      "tags": [
+        "biology",
+        "evolution",
+        "science"
+      ],
+      "publishedAt": "2026-10-03T18:30:02Z",
+      "duration": "PT25S",
+      "views": 86,
+      "likes": 1,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
       "video_id": "fo9jC-E_LjM",
       "content_type": "shorts",
       "title": "The Hidden Logic of Cockpit Security",
@@ -14,8 +109,8 @@
       ],
       "publishedAt": "2026-10-03T13:27:47Z",
       "duration": "PT29S",
-      "views": 337,
-      "likes": 8,
+      "views": 1006,
+      "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -33,7 +128,7 @@
       ],
       "publishedAt": "2026-10-02T17:15:16Z",
       "duration": "PT31S",
-      "views": 176,
+      "views": 173,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -71,7 +166,7 @@
       ],
       "publishedAt": "2026-10-02T16:30:03Z",
       "duration": "PT25S",
-      "views": 921,
+      "views": 918,
       "likes": 10,
       "comments": 0,
       "source": "youtube_sync"
@@ -90,7 +185,7 @@
       ],
       "publishedAt": "2026-10-02T16:15:34Z",
       "duration": "PT27S",
-      "views": 50,
+      "views": 62,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -109,7 +204,7 @@
       ],
       "publishedAt": "2026-10-02T15:48:01Z",
       "duration": "PT23S",
-      "views": 932,
+      "views": 924,
       "likes": 12,
       "comments": 2,
       "source": "youtube_sync"
@@ -128,8 +223,8 @@
       ],
       "publishedAt": "2026-10-02T14:45:06Z",
       "duration": "PT24S",
-      "views": 393,
-      "likes": 4,
+      "views": 721,
+      "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -147,7 +242,7 @@
       ],
       "publishedAt": "2026-10-02T14:15:32Z",
       "duration": "PT27S",
-      "views": 119,
+      "views": 175,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -166,7 +261,7 @@
       ],
       "publishedAt": "2026-10-01T17:40:27Z",
       "duration": "PT25S",
-      "views": 236,
+      "views": 253,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -185,7 +280,7 @@
       ],
       "publishedAt": "2026-10-01T16:15:14Z",
       "duration": "PT28S",
-      "views": 546,
+      "views": 589,
       "likes": 10,
       "comments": 0,
       "source": "youtube_sync"
@@ -200,7 +295,7 @@
       "tags": [],
       "publishedAt": "2026-10-01T14:30:39Z",
       "duration": "PT26S",
-      "views": 975,
+      "views": 990,
       "likes": 9,
       "comments": 0,
       "source": "youtube_sync"
@@ -219,7 +314,7 @@
       ],
       "publishedAt": "2026-09-30T16:30:09Z",
       "duration": "PT25S",
-      "views": 949,
+      "views": 950,
       "likes": 16,
       "comments": 0,
       "source": "youtube_sync"
@@ -238,7 +333,7 @@
       ],
       "publishedAt": "2026-09-30T15:30:12Z",
       "duration": "PT26S",
-      "views": 942,
+      "views": 945,
       "likes": 17,
       "comments": 1,
       "source": "youtube_sync"
@@ -276,7 +371,7 @@
       ],
       "publishedAt": "2026-09-30T13:30:18Z",
       "duration": "PT28S",
-      "views": 489,
+      "views": 488,
       "likes": 9,
       "comments": 0,
       "source": "youtube_sync"
@@ -295,7 +390,7 @@
       ],
       "publishedAt": "2026-09-30T12:30:09Z",
       "duration": "PT28S",
-      "views": 900,
+      "views": 899,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -314,7 +409,7 @@
       ],
       "publishedAt": "2026-09-30T11:30:04Z",
       "duration": "PT24S",
-      "views": 704,
+      "views": 705,
       "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
@@ -333,7 +428,7 @@
       ],
       "publishedAt": "2026-09-29T17:37:17Z",
       "duration": "PT22S",
-      "views": 908,
+      "views": 907,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -372,7 +467,7 @@
       ],
       "publishedAt": "2026-09-29T16:00:27Z",
       "duration": "PT24S",
-      "views": 1308,
+      "views": 1309,
       "likes": 33,
       "comments": 2,
       "source": "youtube_sync"
@@ -410,7 +505,7 @@
       ],
       "publishedAt": "2026-09-29T15:37:10Z",
       "duration": "PT21S",
-      "views": 826,
+      "views": 825,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -430,7 +525,7 @@
       ],
       "publishedAt": "2026-09-28T15:15:26Z",
       "duration": "PT21S",
-      "views": 607,
+      "views": 608,
       "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
@@ -488,7 +583,7 @@
       ],
       "publishedAt": "2026-09-28T09:45:37Z",
       "duration": "PT28S",
-      "views": 992,
+      "views": 993,
       "likes": 17,
       "comments": 0,
       "source": "youtube_sync"
@@ -526,7 +621,7 @@
       ],
       "publishedAt": "2026-09-27T15:45:38Z",
       "duration": "PT26S",
-      "views": 825,
+      "views": 826,
       "likes": 13,
       "comments": 0,
       "source": "youtube_sync"
@@ -1710,7 +1805,7 @@
       ],
       "publishedAt": "2026-09-12T18:08:25Z",
       "duration": "PT26S",
-      "views": 453,
+      "views": 455,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -1767,7 +1862,7 @@
       ],
       "publishedAt": "2026-09-12T15:08:14Z",
       "duration": "PT30S",
-      "views": 1067,
+      "views": 1068,
       "likes": 19,
       "comments": 0,
       "source": "youtube_sync"
@@ -1942,6 +2037,31 @@
       "views": 975,
       "likes": 18,
       "comments": 1,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "eb_R_95m13E",
+      "content_type": "shorts",
+      "title": "Why India's ISRO Called This Rocket the 'Naughty Boy'",
+      "core_subject": "Why India's ISRO Called This Rocket the 'Naughty Boy'",
+      "topic": "Why India's ISRO Called This Rocket the 'Naughty Boy'",
+      "description": "Discover the dramatic true story of ISRO's GSLV rocket—famously dubbed the 'Naughty Boy' of India's space program. From heartbreaking failures and cryogenic tech sanctions to triumphant launches, learn how Indian space scientists turned a troubled launcher into an orbital powerhouse.",
+      "tags": [
+        "GSLV F14",
+        "GSLV rocket",
+        "INSAT 3DS",
+        "ISRO",
+        "ISRO history",
+        "India space agency",
+        "Naughty Boy rocket",
+        "cryogenic engine",
+        "space documentary"
+      ],
+      "publishedAt": "2026-09-10T13:59:23Z",
+      "duration": "PT2M53S",
+      "views": 179,
+      "likes": 0,
+      "comments": 0,
       "source": "youtube_sync"
     },
     {
@@ -2337,7 +2457,7 @@
       ],
       "publishedAt": "2026-09-04T14:30:32Z",
       "duration": "PT30S",
-      "views": 357,
+      "views": 359,
       "likes": 9,
       "comments": 0,
       "source": "youtube_sync"
@@ -2625,7 +2745,7 @@
       ],
       "publishedAt": "2026-09-03T18:45:09Z",
       "duration": "PT24S",
-      "views": 127,
+      "views": 128,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -2814,7 +2934,7 @@
       "tags": [],
       "publishedAt": "2026-08-31T12:49:16Z",
       "duration": "PT34S",
-      "views": 911,
+      "views": 913,
       "likes": 17,
       "comments": 0,
       "source": "youtube_sync"
@@ -3099,7 +3219,7 @@
       "tags": [],
       "publishedAt": "2026-08-24T18:42:54Z",
       "duration": "PT30S",
-      "views": 144,
+      "views": 146,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -3144,7 +3264,7 @@
       "tags": [],
       "publishedAt": "2026-08-24T10:09:27Z",
       "duration": "PT27S",
-      "views": 191,
+      "views": 192,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -5874,7 +5994,7 @@
       "tags": [],
       "publishedAt": "2026-05-05T14:01:04Z",
       "duration": "PT25S",
-      "views": 26,
+      "views": 27,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -6444,32 +6564,7 @@
       "tags": [],
       "publishedAt": "2026-04-17T11:17:44Z",
       "duration": "PT1M7S",
-      "views": 134,
-      "likes": 0,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
-    {
-      "video_id": "eb_R_95m13E",
-      "content_type": "shorts",
-      "title": "Why India's ISRO Called This Rocket the 'Naughty Boy'",
-      "core_subject": "Why India's ISRO Called This Rocket the 'Naughty Boy'",
-      "topic": "Why India's ISRO Called This Rocket the 'Naughty Boy'",
-      "description": "Discover the dramatic true story of ISRO's GSLV rocket—famously dubbed the 'Naughty Boy' of India's space program. From heartbreaking failures and cryogenic tech sanctions to triumphant launches, learn how Indian space scientists turned a troubled launcher into an orbital powerhouse.",
-      "tags": [
-        "GSLV F14",
-        "GSLV rocket",
-        "INSAT 3DS",
-        "ISRO",
-        "ISRO history",
-        "India space agency",
-        "Naughty Boy rocket",
-        "cryogenic engine",
-        "space documentary"
-      ],
-      "publishedAt": "2026-09-10T13:59:23Z",
-      "duration": "PT2M53S",
-      "views": 179,
+      "views": 135,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -6582,57 +6677,6 @@
       "source": "legacy_local_history"
     },
     {
-      "video_id": "1FueofUddL4",
-      "content_type": "shorts",
-      "title": "Why Humans Are Born Prematurely",
-      "core_subject": "Human evolutionary biology and birth",
-      "topic": "Why are human babies born so helpless?",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Human babies are born almost an entire year too early.",
-      "cta": "Subscribe—discover why biology forced this evolution.",
-      "specific_angle": "The pelvic-brain dilemma",
-      "primary_entity": "Human infant",
-      "knowledge_gap": "Human babies are essentially born 12 months early.",
-      "subject_fingerprint": "12 baby biology birth born brain dilemma early essentially evolutionary helpless human infant month pelvic so",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "873ZRQELq4o",
-      "content_type": "shorts",
-      "title": "The Secret of Rectangular Eyes",
-      "core_subject": "Animal vision and eye anatomy",
-      "topic": "Why do some animals have rectangular pupils?",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Why do goats have those strange, rectangular horizontal pupils?",
-      "cta": "Subscribe—there is more to sight than you think.",
-      "specific_angle": "Pupil shape and horizon scanning",
-      "primary_entity": "Goat or sheep",
-      "knowledge_gap": "Rectangular pupils help animals scan the horizon for predators.",
-      "subject_fingerprint": "anatomy animal eye goat have help horizon predator pupil rectangular scan scanning shape sheep some vision",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "p6uIjpQ8XXg",
-      "content_type": "shorts",
-      "title": "The Science of Self-Tickling",
-      "core_subject": "Human neurology and sensory perception",
-      "topic": "Why can’t we tickle ourselves?",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Why is it biologically impossible to tickle yourself?",
-      "cta": "Subscribe—your brain filters reality more than you realize.",
-      "specific_angle": "Sensory prediction and the cerebellum",
-      "primary_entity": "Human cerebellum",
-      "knowledge_gap": "The brain predicts and ignores our own touch.",
-      "subject_fingerprint": "brain cerebellum human ignore neurology our ourselve own perception predict prediction sensory t tickle touch we",
-      "source": "app_upload"
-    },
-    {
       "video_id": "Wd-vaCKk5zI",
       "content_type": "shorts",
       "title": "Life Without Sunlight",
@@ -6647,40 +6691,6 @@
       "primary_entity": "Hydrothermal vent ecosystem",
       "knowledge_gap": "Life can thrive on chemicals alone, no light needed.",
       "subject_fingerprint": "alone biology chemical chemosynthesi create deep ecosystem energy extraction hydrothermal life light marine mineral needed no sea sun thrive vent without",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "Sr3r8xKGpa0",
-      "content_type": "shorts",
-      "title": "Our Drifting Moon",
-      "core_subject": "Lunar orbital mechanics",
-      "topic": "Why is the moon moving away from Earth?",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "The moon is slowly leaving us behind every single year.",
-      "cta": "Subscribe—the history of the cosmos is still unfolding.",
-      "specific_angle": "Tidal friction and orbital drift",
-      "primary_entity": "The Earth-Moon system",
-      "knowledge_gap": "Tidal forces are pushing the moon away by 3.8cm a year.",
-      "subject_fingerprint": "3 8cm away by drift earth force friction lunar mechanic moon moving orbital pushing system tidal year",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "tDIl8_4z7F0",
-      "content_type": "shorts",
-      "title": "The Jellyfish Paradox",
-      "core_subject": "Cnidarian biological simplicity",
-      "topic": "Why do jellyfish have no brain, heart, or lungs?",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "How can a living creature exist without a brain or heart?",
-      "cta": "Subscribe—nature's designs are endless.",
-      "specific_angle": "Diffusion-based survival",
-      "primary_entity": "Jellyfish",
-      "knowledge_gap": "Jellyfish survive by diffusing oxygen directly through their thin tissue.",
-      "subject_fingerprint": "based biological brain by cnidarian diffusing diffusion directly have heart jellyfish lung no oxygen simplicity survival survive their thin through tissue",
       "source": "app_upload"
     },
     {
@@ -6715,6 +6725,23 @@
       "primary_entity": "Fennec fox",
       "knowledge_gap": "Large ears act as biological radiators to release heat.",
       "subject_fingerprint": "act as biological cool desert down ears fennec fox foxe giant heat large loss mammal radiative radiator release thermoregulation through",
+      "source": "app_upload"
+    },
+    {
+      "video_id": "3-C1_Lvz-ek",
+      "content_type": "shorts",
+      "title": "The Mirror Paradox Revealed",
+      "core_subject": "Optical reflection and spatial orientation",
+      "topic": "Why mirrors reverse left and right but not up and down",
+      "category": "",
+      "hook_style": "",
+      "quality_score": 0.0,
+      "selected_hook": "Your reflection doesn't actually flip left and right at all.",
+      "cta": "Subscribe to see your world differently.",
+      "specific_angle": "Mirrors actually reverse front-to-back, not side-to-side",
+      "primary_entity": "A mirror reflection",
+      "knowledge_gap": "Why mirrors seem to flip left/right but never up/down",
+      "subject_fingerprint": "back but down flip front left mirror never not optical orientation reflection reverse right seem side spatial up",
       "source": "app_upload"
     }
   ],
@@ -6761,5 +6788,5 @@
       "source": "youtube_sync"
     }
   ],
-  "last_sync": "2026-10-03T17:31:19.320260+00:00"
+  "last_sync": "2026-10-04T11:29:12.022970+00:00"
 }
