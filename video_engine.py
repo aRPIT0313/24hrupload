@@ -4,14 +4,15 @@ import tempfile
 import shutil
 from pathlib import Path
 import requests
+import shutil
 
 
 # =========================================
 # FFMPEG PATH
 # =========================================
 
-FFMPEG_PATH = os.getenv("FFMPEG_PATH") or shutil.which("ffmpeg") or "ffmpeg"
 
+FFMPEG_PATH = shutil.which("ffmpeg") or "ffmpeg"
 
 # =========================================
 # RUN FFMPEG
@@ -168,12 +169,12 @@ def _caption_words(text):
 
 
 def _build_karaoke_ass(voiceover, duration, output_path):
-    """Create modern word-by-word karaoke captions for the full voiceover.
+    """Create modern word-by-word captions with a moving colored outline.
 
-    We do not have forced-alignment timestamps from Gemini TTS, so timing is
-    estimated from word length and punctuation.  The total timing is always
-    stretched to the exact TTS duration, which keeps the captions synced with
-    the finished audio even when the TTS pace changes.
+    Inactive words stay white with a dark outline. The currently spoken word
+    becomes white with a bright accent outline, so attention visibly follows
+    the narration. Timing is estimated from word length/punctuation and then
+    stretched to the exact TTS duration.
     """
     import re
 
@@ -181,8 +182,7 @@ def _build_karaoke_ass(voiceover, duration, output_path):
     if not words:
         return False
 
-    # Approximate natural speech timing. Longer words get slightly more time;
-    # punctuation gets a small pause. This is more natural than equal timing.
+    # Approximate natural speech timing.
     weights = []
     for word in words:
         clean = re.sub(r"[^A-Za-z0-9']", "", word)
@@ -196,14 +196,14 @@ def _build_karaoke_ass(voiceover, duration, output_path):
     total_weight = sum(weights) or 1.0
     raw_durations = [duration * w / total_weight for w in weights]
 
-    # Keep captions readable: normally 3–5 words, but break early when the
-    # text would become too wide on a 1080x1920 Short.
+    # 3-4 words per caption is easier to read on a phone.
+    # Keep the line short enough that a highlighted word remains prominent.
     groups = []
     current = []
     current_chars = 0
     for index, word in enumerate(words):
         extra = len(word) + (1 if current else 0)
-        if current and (len(current) >= 4 or current_chars + extra > 28):
+        if current and (len(current) >= 4 or current_chars + extra > 27):
             groups.append(current)
             current = []
             current_chars = 0
@@ -212,6 +212,9 @@ def _build_karaoke_ass(voiceover, duration, output_path):
     if current:
         groups.append(current)
 
+    # ASS uses BGR hexadecimal colours.
+    # Normal: white fill + near-black outline.
+    # Active: white fill + bright cyan/yellow-ish outline for strong contrast.
     header = """[Script Info]
 ScriptType: v4.00+
 PlayResX: 1080
@@ -221,7 +224,7 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Karaoke,Arial,64,&H00FFFFFF,&H00B8B8B8,&H00101010,&H99000000,-1,0,0,0,100,100,0,0,3,5,2,2,90,90,300,1
+Style: Normal,Arial,68,&H00FFFFFF,&H00FFFFFF,&H00151515,&H00000000,-1,0,0,0,100,100,0,0,1,4,1,2,90,90,300,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -229,20 +232,43 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
     events = []
     cursor = 0.0
+
     for group in groups:
         group_start = cursor
         group_end = cursor + sum(raw_durations[i] for i in group)
-        pieces = []
-        for i in group:
-            word_duration_cs = max(1, int(round(raw_durations[i] * 100)))
-            pieces.append(r"{\kf" + str(word_duration_cs) + "}" + _ass_escape(words[i]))
-        text = " ".join(pieces)
-        events.append(
-            f"Dialogue: 0,{_ass_time(group_start)},{_ass_time(group_end)},Karaoke,,0,0,0,,{text}"
-        )
+
+        # Render one event per spoken word. Every event contains the same
+        # caption line, but the active word gets a colored outline override.
+        # This produces a reliable moving highlight without depending on ASS
+        # karaoke's fill-color interpolation.
+        word_cursor = group_start
+        for active_pos, active_index in enumerate(group):
+            word_end = word_cursor + raw_durations[active_index]
+
+            pieces = []
+            for i in group:
+                word = _ass_escape(words[i])
+                if i == active_index:
+                    # Bright cyan outline around the currently spoken word.
+                    # White fill remains unchanged, as requested.
+                    pieces.append(
+                        r"{\1c&H00FFFFFF&\3c&H00FFFF00&\bord6}" + word + r"{\rNormal}"
+                    )
+                else:
+                    pieces.append(word)
+
+            text = " ".join(pieces)
+            events.append(
+                f"Dialogue: 0,{_ass_time(word_cursor)},{_ass_time(word_end)},Normal,,0,0,0,,{text}"
+            )
+            word_cursor = word_end
+
         cursor = group_end
 
-    Path(output_path).write_text(header + "\n".join(events) + "\n", encoding="utf-8-sig")
+    Path(output_path).write_text(
+        header + "\n".join(events) + "\n",
+        encoding="utf-8-sig"
+    )
     return True
 
 
