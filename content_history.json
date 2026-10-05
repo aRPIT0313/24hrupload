@@ -1,25 +1,6 @@
 {
   "shorts": [
     {
-      "video_id": "3-C1_Lvz-ek",
-      "content_type": "shorts",
-      "title": "The Mirror Paradox Revealed",
-      "core_subject": "The Mirror Paradox Revealed",
-      "topic": "The Mirror Paradox Revealed",
-      "description": "Why do mirrors flip left to right? It’s not the glass, it’s your brain. #shorts #science #optics",
-      "tags": [
-        "optics",
-        "science",
-        "shorts"
-      ],
-      "publishedAt": "2026-10-04T13:30:34Z",
-      "duration": "PT26S",
-      "views": 49,
-      "likes": 0,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
-    {
       "video_id": "v4pSaFcDOmo",
       "content_type": "shorts",
       "title": "The Science of Attraction",
@@ -31,9 +12,9 @@
         "psychology",
         "shorts"
       ],
-      "publishedAt": "2026-10-04T11:42:43Z",
+      "publishedAt": "2026-10-05T03:30:05Z",
       "duration": "PT29S",
-      "views": 0,
+      "views": 24,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -50,9 +31,28 @@
         "science",
         "shorts"
       ],
-      "publishedAt": "2026-10-04T11:41:01Z",
+      "publishedAt": "2026-10-05T01:30:07Z",
       "duration": "PT26S",
-      "views": 0,
+      "views": 32,
+      "likes": 2,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "PyfnY9IOvCM",
+      "content_type": "shorts",
+      "title": "The Caffeine-Gut Connection",
+      "core_subject": "The Caffeine-Gut Connection",
+      "topic": "The Caffeine-Gut Connection",
+      "description": "Your morning coffee does more than just wake you up. #shorts #biology #health",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-05T00:30:31Z",
+      "duration": "PT23S",
+      "views": 29,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -69,10 +69,29 @@
         "psychology",
         "shorts"
       ],
-      "publishedAt": "2026-10-04T11:39:38Z",
+      "publishedAt": "2026-10-04T23:30:38Z",
       "duration": "PT25S",
-      "views": 1,
-      "likes": 0,
+      "views": 394,
+      "likes": 5,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "acNh_eu1Zvw",
+      "content_type": "shorts",
+      "title": "The Evolution of Horizontal Pupils",
+      "core_subject": "The Evolution of Horizontal Pupils",
+      "topic": "The Evolution of Horizontal Pupils",
+      "description": "Vision is the ultimate survival tool. #shorts #animals #science",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T22:30:15Z",
+      "duration": "PT23S",
+      "views": 277,
+      "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -88,10 +107,29 @@
         "science",
         "shorts"
       ],
-      "publishedAt": "2026-10-04T11:37:57Z",
+      "publishedAt": "2026-10-04T21:30:22Z",
       "duration": "PT26S",
-      "views": 0,
-      "likes": 0,
+      "views": 212,
+      "likes": 6,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "Q1yfSYgMriQ",
+      "content_type": "shorts",
+      "title": "The Chemistry of Living Light",
+      "core_subject": "The Chemistry of Living Light",
+      "topic": "The Chemistry of Living Light",
+      "description": "Efficiency at its finest. #shorts #nature #science",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T20:30:38Z",
+      "duration": "PT26S",
+      "views": 52,
+      "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -107,9 +145,28 @@
         "nature",
         "shorts"
       ],
-      "publishedAt": "2026-10-04T11:36:24Z",
+      "publishedAt": "2026-10-04T19:30:39Z",
       "duration": "PT23S",
-      "views": 0,
+      "views": 49,
+      "likes": 1,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "MqVSfu6x0eI",
+      "content_type": "shorts",
+      "title": "The Paradox of Freezing Water",
+      "core_subject": "The Paradox of Freezing Water",
+      "topic": "The Paradox of Freezing Water",
+      "description": "It sounds impossible, but it is real physics. #shorts #science #physics",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T18:30:12Z",
+      "duration": "PT26S",
+      "views": 71,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -126,10 +183,29 @@
         "shorts",
         "space"
       ],
-      "publishedAt": "2026-10-04T11:34:58Z",
+      "publishedAt": "2026-10-04T17:30:27Z",
       "duration": "PT24S",
-      "views": 1,
-      "likes": 0,
+      "views": 92,
+      "likes": 4,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "_p7VbThdYZs",
+      "content_type": "shorts",
+      "title": "The Physics of Cat Reflexes",
+      "core_subject": "The Physics of Cat Reflexes",
+      "topic": "The Physics of Cat Reflexes",
+      "description": "Cats don't use magic; they use angular momentum. #shorts #science #cats",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T16:30:04Z",
+      "duration": "PT26S",
+      "views": 902,
+      "likes": 24,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -145,10 +221,29 @@
         "nature",
         "shorts"
       ],
-      "publishedAt": "2026-10-04T11:33:49Z",
+      "publishedAt": "2026-10-04T15:30:09Z",
       "duration": "PT27S",
-      "views": 1,
-      "likes": 0,
+      "views": 920,
+      "likes": 16,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "3-C1_Lvz-ek",
+      "content_type": "shorts",
+      "title": "The Mirror Paradox Revealed",
+      "core_subject": "The Mirror Paradox Revealed",
+      "topic": "The Mirror Paradox Revealed",
+      "description": "Why do mirrors flip left to right? It’s not the glass, it’s your brain. #shorts #science #optics",
+      "tags": [
+        "optics",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T13:30:34Z",
+      "duration": "PT26S",
+      "views": 242,
+      "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -166,8 +261,8 @@
       ],
       "publishedAt": "2026-10-03T23:30:03Z",
       "duration": "PT24S",
-      "views": 240,
-      "likes": 5,
+      "views": 442,
+      "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -185,8 +280,8 @@
       ],
       "publishedAt": "2026-10-03T22:30:34Z",
       "duration": "PT23S",
-      "views": 343,
-      "likes": 5,
+      "views": 607,
+      "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -204,8 +299,8 @@
       ],
       "publishedAt": "2026-10-03T20:30:02Z",
       "duration": "PT25S",
-      "views": 87,
-      "likes": 4,
+      "views": 141,
+      "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -223,7 +318,7 @@
       ],
       "publishedAt": "2026-10-03T19:30:09Z",
       "duration": "PT24S",
-      "views": 39,
+      "views": 49,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -242,8 +337,8 @@
       ],
       "publishedAt": "2026-10-03T18:30:02Z",
       "duration": "PT25S",
-      "views": 121,
-      "likes": 1,
+      "views": 294,
+      "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -261,7 +356,7 @@
       ],
       "publishedAt": "2026-10-03T13:27:47Z",
       "duration": "PT29S",
-      "views": 1009,
+      "views": 1029,
       "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
@@ -299,7 +394,7 @@
       ],
       "publishedAt": "2026-10-02T16:45:11Z",
       "duration": "PT27S",
-      "views": 973,
+      "views": 974,
       "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
@@ -337,7 +432,7 @@
       ],
       "publishedAt": "2026-10-02T16:15:34Z",
       "duration": "PT27S",
-      "views": 62,
+      "views": 64,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -375,7 +470,7 @@
       ],
       "publishedAt": "2026-10-02T14:45:06Z",
       "duration": "PT24S",
-      "views": 790,
+      "views": 816,
       "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
@@ -394,7 +489,7 @@
       ],
       "publishedAt": "2026-10-02T14:15:32Z",
       "duration": "PT27S",
-      "views": 180,
+      "views": 186,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -466,8 +561,8 @@
       ],
       "publishedAt": "2026-09-30T16:30:09Z",
       "duration": "PT25S",
-      "views": 950,
-      "likes": 16,
+      "views": 955,
+      "likes": 17,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -485,7 +580,7 @@
       ],
       "publishedAt": "2026-09-30T15:30:12Z",
       "duration": "PT26S",
-      "views": 946,
+      "views": 947,
       "likes": 17,
       "comments": 1,
       "source": "youtube_sync"
@@ -504,7 +599,7 @@
       ],
       "publishedAt": "2026-09-30T14:30:00Z",
       "duration": "PT31S",
-      "views": 952,
+      "views": 953,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -523,7 +618,7 @@
       ],
       "publishedAt": "2026-09-30T13:30:18Z",
       "duration": "PT28S",
-      "views": 488,
+      "views": 489,
       "likes": 9,
       "comments": 0,
       "source": "youtube_sync"
@@ -542,7 +637,7 @@
       ],
       "publishedAt": "2026-09-30T12:30:09Z",
       "duration": "PT28S",
-      "views": 900,
+      "views": 901,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -561,7 +656,7 @@
       ],
       "publishedAt": "2026-09-30T11:30:04Z",
       "duration": "PT24S",
-      "views": 705,
+      "views": 706,
       "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
@@ -580,7 +675,7 @@
       ],
       "publishedAt": "2026-09-29T17:37:17Z",
       "duration": "PT22S",
-      "views": 907,
+      "views": 908,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -599,7 +694,7 @@
       ],
       "publishedAt": "2026-09-29T16:37:07Z",
       "duration": "PT25S",
-      "views": 366,
+      "views": 367,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -619,7 +714,7 @@
       ],
       "publishedAt": "2026-09-29T16:00:27Z",
       "duration": "PT24S",
-      "views": 1309,
+      "views": 1310,
       "likes": 33,
       "comments": 2,
       "source": "youtube_sync"
@@ -638,7 +733,7 @@
       ],
       "publishedAt": "2026-09-29T16:00:24Z",
       "duration": "PT24S",
-      "views": 233,
+      "views": 234,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -657,7 +752,7 @@
       ],
       "publishedAt": "2026-09-29T15:37:10Z",
       "duration": "PT21S",
-      "views": 825,
+      "views": 826,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -677,7 +772,7 @@
       ],
       "publishedAt": "2026-09-28T15:15:26Z",
       "duration": "PT21S",
-      "views": 608,
+      "views": 610,
       "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
@@ -697,7 +792,7 @@
       ],
       "publishedAt": "2026-09-28T14:45:21Z",
       "duration": "PT24S",
-      "views": 103,
+      "views": 105,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -716,7 +811,7 @@
       ],
       "publishedAt": "2026-09-28T10:15:07Z",
       "duration": "PT31S",
-      "views": 203,
+      "views": 204,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -735,7 +830,7 @@
       ],
       "publishedAt": "2026-09-28T09:45:37Z",
       "duration": "PT28S",
-      "views": 993,
+      "views": 996,
       "likes": 17,
       "comments": 0,
       "source": "youtube_sync"
@@ -754,7 +849,7 @@
       ],
       "publishedAt": "2026-09-27T16:00:25Z",
       "duration": "PT28S",
-      "views": 614,
+      "views": 615,
       "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
@@ -773,7 +868,7 @@
       ],
       "publishedAt": "2026-09-27T15:45:38Z",
       "duration": "PT26S",
-      "views": 826,
+      "views": 828,
       "likes": 13,
       "comments": 0,
       "source": "youtube_sync"
@@ -792,7 +887,7 @@
       ],
       "publishedAt": "2026-09-27T08:22:03Z",
       "duration": "PT26S",
-      "views": 957,
+      "views": 958,
       "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
@@ -811,7 +906,7 @@
       ],
       "publishedAt": "2026-09-27T07:22:25Z",
       "duration": "PT24S",
-      "views": 341,
+      "views": 342,
       "likes": 11,
       "comments": 1,
       "source": "youtube_sync"
@@ -830,7 +925,7 @@
       ],
       "publishedAt": "2026-09-27T06:59:33Z",
       "duration": "PT30S",
-      "views": 426,
+      "views": 429,
       "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
@@ -849,7 +944,7 @@
       ],
       "publishedAt": "2026-09-26T16:15:29Z",
       "duration": "PT25S",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -868,7 +963,7 @@
       ],
       "publishedAt": "2026-09-26T15:45:38Z",
       "duration": "PT24S",
-      "views": 985,
+      "views": 986,
       "likes": 9,
       "comments": 0,
       "source": "youtube_sync"
@@ -887,7 +982,7 @@
       ],
       "publishedAt": "2026-09-26T15:15:16Z",
       "duration": "PT26S",
-      "views": 112,
+      "views": 113,
       "likes": 3,
       "comments": 1,
       "source": "youtube_sync"
@@ -906,7 +1001,7 @@
       ],
       "publishedAt": "2026-09-26T14:45:25Z",
       "duration": "PT26S",
-      "views": 90,
+      "views": 91,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -925,7 +1020,7 @@
       ],
       "publishedAt": "2026-09-25T16:04:20Z",
       "duration": "PT25S",
-      "views": 426,
+      "views": 427,
       "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
@@ -944,7 +1039,7 @@
       ],
       "publishedAt": "2026-09-25T15:04:26Z",
       "duration": "PT22S",
-      "views": 284,
+      "views": 285,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -963,7 +1058,7 @@
       ],
       "publishedAt": "2026-09-25T14:04:10Z",
       "duration": "PT25S",
-      "views": 289,
+      "views": 290,
       "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
@@ -982,7 +1077,7 @@
       ],
       "publishedAt": "2026-09-25T13:04:01Z",
       "duration": "PT27S",
-      "views": 176,
+      "views": 177,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -1001,7 +1096,7 @@
       ],
       "publishedAt": "2026-09-25T06:30:25Z",
       "duration": "PT27S",
-      "views": 975,
+      "views": 976,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -1021,7 +1116,7 @@
       ],
       "publishedAt": "2026-09-24T16:30:30Z",
       "duration": "PT23S",
-      "views": 464,
+      "views": 466,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -1041,7 +1136,7 @@
       ],
       "publishedAt": "2026-09-24T16:15:32Z",
       "duration": "PT25S",
-      "views": 302,
+      "views": 304,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -1131,7 +1226,7 @@
       ],
       "publishedAt": "2026-09-23T08:00:35Z",
       "duration": "PT22S",
-      "views": 370,
+      "views": 371,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -1282,7 +1377,7 @@
       ],
       "publishedAt": "2026-09-20T16:03:13Z",
       "duration": "PT30S",
-      "views": 78,
+      "views": 79,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -1653,7 +1748,7 @@
       ],
       "publishedAt": "2026-09-16T12:46:28Z",
       "duration": "PT2M56S",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -1748,7 +1843,7 @@
       ],
       "publishedAt": "2026-09-15T14:00:09Z",
       "duration": "PT31S",
-      "views": 73,
+      "views": 75,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -1957,7 +2052,7 @@
       ],
       "publishedAt": "2026-09-12T18:08:25Z",
       "duration": "PT26S",
-      "views": 455,
+      "views": 458,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -2014,7 +2109,7 @@
       ],
       "publishedAt": "2026-09-12T15:08:14Z",
       "duration": "PT30S",
-      "views": 1068,
+      "views": 1069,
       "likes": 19,
       "comments": 0,
       "source": "youtube_sync"
@@ -2439,7 +2534,7 @@
       ],
       "publishedAt": "2026-09-06T15:30:17Z",
       "duration": "PT25S",
-      "views": 70,
+      "views": 71,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -3206,7 +3301,7 @@
       "tags": [],
       "publishedAt": "2026-08-28T18:21:16Z",
       "duration": "PT25S",
-      "views": 972,
+      "views": 974,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -3281,7 +3376,7 @@
       "tags": [],
       "publishedAt": "2026-08-26T14:43:48Z",
       "duration": "PT26S",
-      "views": 60,
+      "views": 61,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -3626,7 +3721,7 @@
       "tags": [],
       "publishedAt": "2026-08-17T07:11:31Z",
       "duration": "PT37S",
-      "views": 274,
+      "views": 275,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -4721,7 +4816,7 @@
       "tags": [],
       "publishedAt": "2026-07-06T07:02:07Z",
       "duration": "PT15S",
-      "views": 1600,
+      "views": 1601,
       "likes": 19,
       "comments": 0,
       "source": "youtube_sync"
@@ -4991,7 +5086,7 @@
       "tags": [],
       "publishedAt": "2026-06-30T14:26:43Z",
       "duration": "PT21S",
-      "views": 17,
+      "views": 18,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -5246,7 +5341,7 @@
       "tags": [],
       "publishedAt": "2026-06-19T06:25:05Z",
       "duration": "PT22S",
-      "views": 36,
+      "views": 38,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -6716,7 +6811,7 @@
       "tags": [],
       "publishedAt": "2026-04-17T11:17:44Z",
       "duration": "PT1M7S",
-      "views": 136,
+      "views": 138,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -6880,88 +6975,20 @@
       "source": "app_upload"
     },
     {
-      "video_id": "_p7VbThdYZs",
+      "video_id": "xTfueXhk_do",
       "content_type": "shorts",
-      "title": "The Physics of Cat Reflexes",
-      "core_subject": "Conservation of angular momentum",
-      "topic": "How do cats land on their feet?",
+      "title": "Why Your Stomach Doesn't Digest Itself",
+      "core_subject": "Stomach lining mucosal defense mechanism",
+      "topic": "Why doesn't your stomach digest itself?",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Cats defy gravity by rotating their bodies mid-air without an external force.",
-      "cta": "Subscribe—your cat hides more physics secrets.",
-      "specific_angle": "How cats manipulate their body rotation mid-air",
-      "primary_entity": "Domestic cat",
-      "knowledge_gap": "Cats use their spine and tail to rotate without pushing off anything.",
-      "subject_fingerprint": "air angular anything body cat cats conservation domestic feet land manipulate mid momentum off pushing rotate rotation spine tail their use without",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "MqVSfu6x0eI",
-      "content_type": "shorts",
-      "title": "The Paradox of Freezing Water",
-      "core_subject": "The Mpemba Effect",
-      "topic": "Why does hot water freeze faster than cold?",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Hot water can turn into ice faster than cold water can.",
-      "cta": "Subscribe—the simplest things are the most mysterious.",
-      "specific_angle": "Why higher temperature water can freeze faster",
-      "primary_entity": "Water molecules",
-      "knowledge_gap": "Hot water loses mass and dissolves gas, aiding faster crystallization.",
-      "subject_fingerprint": "aiding cold crystallization dissolve effect faster freeze gas higher hot lose mass molecule mpemba temperature than water",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "Q1yfSYgMriQ",
-      "content_type": "shorts",
-      "title": "The Chemistry of Living Light",
-      "core_subject": "Bioluminescence",
-      "topic": "Why do some insects glow?",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Insects can generate their own light without any heat at all.",
-      "cta": "Subscribe—nature's chemistry is truly brilliant.",
-      "specific_angle": "Chemical reaction creating light",
-      "primary_entity": "Firefly",
-      "knowledge_gap": "Luciferin and oxygen combine to create cold light.",
-      "subject_fingerprint": "bioluminescence chemical cold combine create creating firefly glow insect light luciferin oxygen reaction some",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "acNh_eu1Zvw",
-      "content_type": "shorts",
-      "title": "The Evolution of Horizontal Pupils",
-      "core_subject": "Pupil shape and field of view",
-      "topic": "Why are your pupils shaped like a goat's?",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "The reason goats have rectangular eyes is to survive.",
-      "cta": "Subscribe—evolution has designed your eyes, too.",
-      "specific_angle": "How horizontal pupils improve panoramic vision",
-      "primary_entity": "Goat eye",
-      "knowledge_gap": "Rectangular pupils help prey animals see predators coming from the sides.",
-      "subject_fingerprint": "animal coming eye field goat help horizontal improve like panoramic predator prey pupil rectangular s see shape shaped side view vision",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "PyfnY9IOvCM",
-      "content_type": "shorts",
-      "title": "The Caffeine-Gut Connection",
-      "core_subject": "Gastrocolic reflex",
-      "topic": "Why does coffee make you poop?",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Coffee triggers a physical reaction in your gut within minutes.",
-      "cta": "Subscribe—your morning routine is biological.",
-      "specific_angle": "How coffee triggers bowel movements",
-      "primary_entity": "Human stomach and intestines",
-      "knowledge_gap": "Coffee stimulates the colon muscle and digestive hormones.",
-      "subject_fingerprint": "bowel coffee colon digestive gastrocolic hormone human intestine make movement muscle poop reflex stimulate stomach trigger",
+      "selected_hook": "Your stomach acid can dissolve metal, so why not you?",
+      "cta": "Subscribe—your body has stranger secrets.",
+      "specific_angle": "The role of bicarbonate-rich mucus in preventing acid erosion",
+      "primary_entity": "Human stomach lining",
+      "knowledge_gap": "The chemical barrier that separates digestion from self-destruction",
+      "subject_fingerprint": "acid barrier bicarbonate chemical defense destruction digest digestion doesn erosion human itself lining mechanism mucosal mucu preventing rich role self separate stomach t",
       "source": "app_upload"
     }
   ],
@@ -7008,5 +7035,5 @@
       "source": "youtube_sync"
     }
   ],
-  "last_sync": "2026-10-04T15:26:53.798417+00:00"
+  "last_sync": "2026-10-05T13:26:42.874283+00:00"
 }
