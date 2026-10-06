@@ -10,9 +10,6 @@ on:
 
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 concurrency:
   group: rolling-shorts
   cancel-in-progress: false
@@ -26,8 +23,10 @@ jobs:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
       YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
+
       SHORT_STYLE: Documentary
       SHORT_VOICE: Kore
+
       PYTHONUNBUFFERED: '1'
 
     steps:
