@@ -1,6 +1,158 @@
 {
   "shorts": [
     {
+      "video_id": "smLfNSw1tXE",
+      "content_type": "shorts",
+      "title": "The Microbiome of Your Mouth",
+      "core_subject": "The Microbiome of Your Mouth",
+      "topic": "The Microbiome of Your Mouth",
+      "description": "Your mouth is a bustling, microscopic ecosystem that never sleeps.",
+      "tags": [
+        "biology",
+        "microbiome",
+        "science"
+      ],
+      "publishedAt": "2026-10-08T01:30:04Z",
+      "duration": "PT27S",
+      "views": 500,
+      "likes": 4,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "w7MhyF0k1UQ",
+      "content_type": "shorts",
+      "title": "The Hidden Colors of Shadows",
+      "core_subject": "The Hidden Colors of Shadows",
+      "topic": "The Hidden Colors of Shadows",
+      "description": "Look closer next time: your shadow is catching light from the entire sky.",
+      "tags": [
+        "light",
+        "physics",
+        "science"
+      ],
+      "publishedAt": "2026-10-08T00:30:08Z",
+      "duration": "PT24S",
+      "views": 642,
+      "likes": 8,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "0gvcRfKcHOA",
+      "content_type": "shorts",
+      "title": "The Fish That Walk On Land",
+      "core_subject": "The Fish That Walk On Land",
+      "topic": "The Fish That Walk On Land",
+      "description": "Evolution finds a way: the fish that brought its own water supply to land.",
+      "tags": [
+        "animals",
+        "evolution",
+        "science"
+      ],
+      "publishedAt": "2026-10-07T23:30:16Z",
+      "duration": "PT27S",
+      "views": 864,
+      "likes": 7,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "y4VfGYfXB7Q",
+      "content_type": "shorts",
+      "title": "The Secret Language of Bees",
+      "core_subject": "The Secret Language of Bees",
+      "topic": "The Secret Language of Bees",
+      "description": "Bees don't just fly; they use their bodies to plot courses for the entire colony.",
+      "tags": [
+        "bees",
+        "biology",
+        "nature"
+      ],
+      "publishedAt": "2026-10-07T22:30:37Z",
+      "duration": "PT21S",
+      "views": 14,
+      "likes": 1,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "4KXXo5-ztVI",
+      "content_type": "shorts",
+      "title": "Why You Can't See Your Own Nose",
+      "core_subject": "Why You Can't See Your Own Nose",
+      "topic": "Why You Can't See Your Own Nose",
+      "description": "Your brain is a filter that chooses what you see and what you ignore.",
+      "tags": [
+        "brain",
+        "psychology",
+        "vision"
+      ],
+      "publishedAt": "2026-10-07T21:30:12Z",
+      "duration": "PT23S",
+      "views": 206,
+      "likes": 1,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "LqFaFYTDKxo",
+      "content_type": "shorts",
+      "title": "The Hidden Cost of Toilet Scrolling",
+      "core_subject": "The Hidden Cost of Toilet Scrolling",
+      "topic": "The Hidden Cost of Toilet Scrolling",
+      "description": "The hygiene reality of taking your device into the smallest room.",
+      "tags": [
+        "health",
+        "hygiene",
+        "science"
+      ],
+      "publishedAt": "2026-10-07T20:30:08Z",
+      "duration": "PT24S",
+      "views": 115,
+      "likes": 4,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "UVsLKyFeBfk",
+      "content_type": "shorts",
+      "title": "The Cosmic Origin of Gold",
+      "core_subject": "The Cosmic Origin of Gold",
+      "topic": "The Cosmic Origin of Gold",
+      "description": "Your gold jewelry has a history that predates the Earth itself.",
+      "tags": [
+        "astronomy",
+        "gold",
+        "space"
+      ],
+      "publishedAt": "2026-10-07T19:30:13Z",
+      "duration": "PT24S",
+      "views": 83,
+      "likes": 4,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "JNkb99e6FoA",
+      "content_type": "shorts",
+      "title": "Why Your Earliest Memories Are Missing",
+      "core_subject": "Why Your Earliest Memories Are Missing",
+      "topic": "Why Your Earliest Memories Are Missing",
+      "description": "Your earliest memories aren't just forgotten—they were never saved in the first place.",
+      "tags": [
+        "brain",
+        "psychology",
+        "science"
+      ],
+      "publishedAt": "2026-10-07T18:30:14Z",
+      "duration": "PT24S",
+      "views": 21,
+      "likes": 1,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
       "video_id": "nQ5vwbgqaBo",
       "content_type": "shorts",
       "title": "The Geometry Of Your Changing Shadow",
@@ -14,7 +166,7 @@
       ],
       "publishedAt": "2026-10-06T22:30:09Z",
       "duration": "PT22S",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -33,8 +185,8 @@
       ],
       "publishedAt": "2026-10-06T21:30:26Z",
       "duration": "PT20S",
-      "views": 322,
-      "likes": 1,
+      "views": 591,
+      "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -52,7 +204,7 @@
       ],
       "publishedAt": "2026-10-06T20:30:03Z",
       "duration": "PT24S",
-      "views": 34,
+      "views": 123,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -71,7 +223,7 @@
       ],
       "publishedAt": "2026-10-06T19:30:07Z",
       "duration": "PT20S",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -90,8 +242,8 @@
       ],
       "publishedAt": "2026-10-06T18:30:05Z",
       "duration": "PT22S",
-      "views": 166,
-      "likes": 4,
+      "views": 329,
+      "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -109,8 +261,8 @@
       ],
       "publishedAt": "2026-10-06T17:30:20Z",
       "duration": "PT22S",
-      "views": 85,
-      "likes": 2,
+      "views": 262,
+      "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -128,8 +280,8 @@
       ],
       "publishedAt": "2026-10-06T16:30:32Z",
       "duration": "PT23S",
-      "views": 243,
-      "likes": 6,
+      "views": 760,
+      "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -147,7 +299,7 @@
       ],
       "publishedAt": "2026-10-06T15:30:15Z",
       "duration": "PT22S",
-      "views": 135,
+      "views": 202,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -166,7 +318,7 @@
       ],
       "publishedAt": "2026-10-06T04:30:11Z",
       "duration": "PT25S",
-      "views": 1078,
+      "views": 1082,
       "likes": 9,
       "comments": 0,
       "source": "youtube_sync"
@@ -204,7 +356,7 @@
       ],
       "publishedAt": "2026-10-06T00:30:15Z",
       "duration": "PT24S",
-      "views": 81,
+      "views": 99,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -223,7 +375,7 @@
       ],
       "publishedAt": "2026-10-05T23:30:28Z",
       "duration": "PT23S",
-      "views": 128,
+      "views": 136,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -242,7 +394,7 @@
       ],
       "publishedAt": "2026-10-05T22:30:38Z",
       "duration": "PT24S",
-      "views": 373,
+      "views": 434,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -261,7 +413,7 @@
       ],
       "publishedAt": "2026-10-05T21:30:33Z",
       "duration": "PT28S",
-      "views": 45,
+      "views": 60,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -280,7 +432,7 @@
       ],
       "publishedAt": "2026-10-05T20:30:33Z",
       "duration": "PT23S",
-      "views": 228,
+      "views": 320,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -299,7 +451,7 @@
       ],
       "publishedAt": "2026-10-05T18:30:33Z",
       "duration": "PT21S",
-      "views": 52,
+      "views": 58,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -318,7 +470,7 @@
       ],
       "publishedAt": "2026-10-05T16:30:16Z",
       "duration": "PT27S",
-      "views": 43,
+      "views": 44,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -337,7 +489,7 @@
       ],
       "publishedAt": "2026-10-05T14:30:11Z",
       "duration": "PT26S",
-      "views": 408,
+      "views": 426,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -413,7 +565,7 @@
       ],
       "publishedAt": "2026-10-04T23:30:38Z",
       "duration": "PT25S",
-      "views": 799,
+      "views": 795,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -451,7 +603,7 @@
       ],
       "publishedAt": "2026-10-04T21:30:22Z",
       "duration": "PT26S",
-      "views": 372,
+      "views": 376,
       "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
@@ -508,7 +660,7 @@
       ],
       "publishedAt": "2026-10-04T18:30:12Z",
       "duration": "PT26S",
-      "views": 111,
+      "views": 110,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -546,7 +698,7 @@
       ],
       "publishedAt": "2026-10-04T16:30:04Z",
       "duration": "PT26S",
-      "views": 915,
+      "views": 922,
       "likes": 25,
       "comments": 0,
       "source": "youtube_sync"
@@ -565,7 +717,7 @@
       ],
       "publishedAt": "2026-10-04T15:30:09Z",
       "duration": "PT27S",
-      "views": 923,
+      "views": 921,
       "likes": 16,
       "comments": 0,
       "source": "youtube_sync"
@@ -584,7 +736,7 @@
       ],
       "publishedAt": "2026-10-04T13:30:34Z",
       "duration": "PT26S",
-      "views": 618,
+      "views": 619,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -641,7 +793,7 @@
       ],
       "publishedAt": "2026-10-03T20:30:02Z",
       "duration": "PT25S",
-      "views": 191,
+      "views": 194,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -660,7 +812,7 @@
       ],
       "publishedAt": "2026-10-03T19:30:09Z",
       "duration": "PT24S",
-      "views": 55,
+      "views": 56,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -679,7 +831,7 @@
       ],
       "publishedAt": "2026-10-03T18:30:02Z",
       "duration": "PT25S",
-      "views": 556,
+      "views": 555,
       "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
@@ -698,7 +850,7 @@
       ],
       "publishedAt": "2026-10-03T13:27:47Z",
       "duration": "PT29S",
-      "views": 1055,
+      "views": 1059,
       "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
@@ -717,7 +869,7 @@
       ],
       "publishedAt": "2026-10-02T17:15:16Z",
       "duration": "PT31S",
-      "views": 173,
+      "views": 174,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -831,7 +983,7 @@
       ],
       "publishedAt": "2026-10-02T14:15:32Z",
       "duration": "PT27S",
-      "views": 186,
+      "views": 185,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -922,7 +1074,7 @@
       ],
       "publishedAt": "2026-09-30T15:30:12Z",
       "duration": "PT26S",
-      "views": 947,
+      "views": 948,
       "likes": 17,
       "comments": 1,
       "source": "youtube_sync"
@@ -1114,7 +1266,7 @@
       ],
       "publishedAt": "2026-09-28T15:15:26Z",
       "duration": "PT21S",
-      "views": 611,
+      "views": 612,
       "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
@@ -1530,7 +1682,7 @@
       "tags": [],
       "publishedAt": "2026-09-23T09:56:08Z",
       "duration": "PT25S",
-      "views": 679,
+      "views": 680,
       "likes": 12,
       "comments": 0,
       "source": "youtube_sync"
@@ -1817,7 +1969,7 @@
       ],
       "publishedAt": "2026-09-19T14:46:37Z",
       "duration": "PT32S",
-      "views": 453,
+      "views": 458,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -2090,7 +2242,7 @@
       ],
       "publishedAt": "2026-09-16T12:46:28Z",
       "duration": "PT2M56S",
-      "views": 8,
+      "views": 15,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -2299,7 +2451,7 @@
       ],
       "publishedAt": "2026-09-13T18:02:25Z",
       "duration": "PT28S",
-      "views": 663,
+      "views": 664,
       "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
@@ -2394,7 +2546,7 @@
       ],
       "publishedAt": "2026-09-12T18:08:25Z",
       "duration": "PT26S",
-      "views": 471,
+      "views": 473,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -2432,7 +2584,7 @@
       ],
       "publishedAt": "2026-09-12T16:08:13Z",
       "duration": "PT27S",
-      "views": 569,
+      "views": 571,
       "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
@@ -2451,7 +2603,7 @@
       ],
       "publishedAt": "2026-09-12T15:08:14Z",
       "duration": "PT30S",
-      "views": 1070,
+      "views": 1073,
       "likes": 19,
       "comments": 0,
       "source": "youtube_sync"
@@ -2604,7 +2756,7 @@
       ],
       "publishedAt": "2026-09-10T15:30:14Z",
       "duration": "PT37S",
-      "views": 470,
+      "views": 471,
       "likes": 4,
       "comments": 1,
       "source": "youtube_sync"
@@ -2876,7 +3028,7 @@
       ],
       "publishedAt": "2026-09-06T15:30:17Z",
       "duration": "PT25S",
-      "views": 72,
+      "views": 73,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -2901,6 +3053,25 @@
       "source": "youtube_sync"
     },
     {
+      "video_id": "h3THiyk6MwY",
+      "content_type": "shorts",
+      "title": "The 1920s experiment that proved we live in an expanding universe",
+      "core_subject": "The 1920s experiment that proved we live in an expanding universe",
+      "topic": "The 1920s experiment that proved we live in an expanding universe",
+      "description": "Edwin Hubble changed everything in 1929 when he discovered the universe is expanding. #space #astronomy #science #history",
+      "tags": [
+        "science",
+        "shorts",
+        "space"
+      ],
+      "publishedAt": "2026-09-06T13:30:19Z",
+      "duration": "PT26S",
+      "views": 944,
+      "likes": 19,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
       "video_id": "2nQFpO-YV9o",
       "content_type": "shorts",
       "title": "The Department of Energy's new supercomputer is simulating the birth of atoms",
@@ -2916,6 +3087,27 @@
       "duration": "PT23S",
       "views": 81,
       "likes": 4,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "HvMjnrCOkC0",
+      "content_type": "shorts",
+      "title": "The Voyagers' Golden Record: A time capsule for an alien civilization",
+      "core_subject": "The Voyagers' Golden Record: A time capsule for an alien civilization",
+      "topic": "The Voyagers' Golden Record: A time capsule for an alien civilization",
+      "description": "Beyond our solar system, a golden record carries the sounds of Earth into the unknown. #voyager #space #astronomy #science #cosmos",
+      "tags": [
+        "astronomy",
+        "cosmos",
+        "science",
+        "space",
+        "voyager"
+      ],
+      "publishedAt": "2026-09-05T18:41:12Z",
+      "duration": "PT35S",
+      "views": 740,
+      "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -3006,7 +3198,7 @@
       ],
       "publishedAt": "2026-09-04T14:30:32Z",
       "duration": "PT30S",
-      "views": 360,
+      "views": 361,
       "likes": 9,
       "comments": 0,
       "source": "youtube_sync"
@@ -3044,7 +3236,7 @@
       ],
       "publishedAt": "2026-09-04T12:30:35Z",
       "duration": "PT30S",
-      "views": 38,
+      "views": 39,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -3198,7 +3390,7 @@
       ],
       "publishedAt": "2026-09-03T22:45:11Z",
       "duration": "PT27S",
-      "views": 16,
+      "views": 18,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -3217,7 +3409,7 @@
       ],
       "publishedAt": "2026-09-03T21:45:20Z",
       "duration": "PT29S",
-      "views": 13,
+      "views": 15,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -3438,7 +3630,7 @@
       "tags": [],
       "publishedAt": "2026-09-01T18:06:53Z",
       "duration": "PT32S",
-      "views": 1033,
+      "views": 1034,
       "likes": 15,
       "comments": 0,
       "source": "youtube_sync"
@@ -3483,7 +3675,7 @@
       "tags": [],
       "publishedAt": "2026-08-31T12:49:16Z",
       "duration": "PT34S",
-      "views": 913,
+      "views": 914,
       "likes": 17,
       "comments": 0,
       "source": "youtube_sync"
@@ -3723,7 +3915,7 @@
       "tags": [],
       "publishedAt": "2026-08-25T13:34:53Z",
       "duration": "PT28S",
-      "views": 957,
+      "views": 959,
       "likes": 20,
       "comments": 0,
       "source": "youtube_sync"
@@ -3828,7 +4020,7 @@
       "tags": [],
       "publishedAt": "2026-08-23T18:28:53Z",
       "duration": "PT27S",
-      "views": 923,
+      "views": 924,
       "likes": 15,
       "comments": 0,
       "source": "youtube_sync"
@@ -4113,7 +4305,7 @@
       "tags": [],
       "publishedAt": "2026-08-12T05:29:14Z",
       "duration": "PT30S",
-      "views": 278,
+      "views": 279,
       "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
@@ -4158,7 +4350,7 @@
       "tags": [],
       "publishedAt": "2026-08-06T15:08:06Z",
       "duration": "PT22S",
-      "views": 169,
+      "views": 170,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -4443,7 +4635,7 @@
       "tags": [],
       "publishedAt": "2026-07-14T14:20:28Z",
       "duration": "PT14S",
-      "views": 65,
+      "views": 68,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -4548,7 +4740,7 @@
       "tags": [],
       "publishedAt": "2026-07-13T10:14:53Z",
       "duration": "PT15S",
-      "views": 140,
+      "views": 142,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -5118,7 +5310,7 @@
       "tags": [],
       "publishedAt": "2026-07-06T07:02:07Z",
       "duration": "PT15S",
-      "views": 1601,
+      "views": 1604,
       "likes": 19,
       "comments": 0,
       "source": "youtube_sync"
@@ -5643,7 +5835,7 @@
       "tags": [],
       "publishedAt": "2026-06-19T06:25:05Z",
       "duration": "PT22S",
-      "views": 38,
+      "views": 39,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -6018,7 +6210,7 @@
       "tags": [],
       "publishedAt": "2026-06-03T10:24:07Z",
       "duration": "PT29S",
-      "views": 640,
+      "views": 642,
       "likes": 16,
       "comments": 0,
       "source": "youtube_sync"
@@ -6828,7 +7020,7 @@
       "tags": [],
       "publishedAt": "2026-04-25T15:54:27Z",
       "duration": "PT33S",
-      "views": 1252,
+      "views": 1254,
       "likes": 24,
       "comments": 2,
       "source": "youtube_sync"
@@ -7119,46 +7311,6 @@
       "source": "youtube_sync"
     },
     {
-      "video_id": "h3THiyk6MwY",
-      "content_type": "shorts",
-      "title": "The 1920s experiment that proved we live in an expanding universe",
-      "core_subject": "The 1920s experiment that proved we live in an expanding universe",
-      "topic": "The 1920s experiment that proved we live in an expanding universe",
-      "description": "Edwin Hubble changed everything in 1929 when he discovered the universe is expanding. #space #astronomy #science #history",
-      "tags": [
-        "science",
-        "shorts",
-        "space"
-      ],
-      "publishedAt": "2026-09-06T13:30:19Z",
-      "duration": "PT26S",
-      "views": 944,
-      "likes": 19,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
-    {
-      "video_id": "HvMjnrCOkC0",
-      "content_type": "shorts",
-      "title": "The Voyagers' Golden Record: A time capsule for an alien civilization",
-      "core_subject": "The Voyagers' Golden Record: A time capsule for an alien civilization",
-      "topic": "The Voyagers' Golden Record: A time capsule for an alien civilization",
-      "description": "Beyond our solar system, a golden record carries the sounds of Earth into the unknown. #voyager #space #astronomy #science #cosmos",
-      "tags": [
-        "astronomy",
-        "cosmos",
-        "science",
-        "space",
-        "voyager"
-      ],
-      "publishedAt": "2026-09-05T18:41:12Z",
-      "duration": "PT35S",
-      "views": 740,
-      "likes": 8,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
-    {
       "video_id": "",
       "content_type": "shorts",
       "title": "War Against Emu",
@@ -7317,139 +7469,139 @@
       "source": "app_upload"
     },
     {
-      "video_id": "JNkb99e6FoA",
+      "video_id": "OeFa0o86lBM",
       "content_type": "shorts",
-      "title": "Why Your Earliest Memories Are Missing",
-      "core_subject": "Infantile amnesia and brain development",
-      "topic": "Why you can't remember your own birth",
+      "title": "Why you don't see your world blurring",
+      "core_subject": "Saccadic masking in human vision",
+      "topic": "Why your brain hides your eye movements",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Your first three years of life are completely invisible to you.",
-      "cta": "Subscribe—the history of your mind gets weirder.",
-      "specific_angle": "The lack of language and neural pruning",
-      "primary_entity": "Developing human brain",
-      "knowledge_gap": "Memory requires language to store experiences",
-      "subject_fingerprint": "amnesia birth brain developing development experience human infantile lack language memory neural own pruning remember require store t",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "UVsLKyFeBfk",
-      "content_type": "shorts",
-      "title": "The Cosmic Origin of Gold",
-      "core_subject": "Nucleosynthesis in neutron star collisions",
-      "topic": "Why gold is essentially 'stardust' from dead stars",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Every atom of gold you own was forged in a celestial collision.",
-      "cta": "Subscribe—there is more space debris in your home.",
-      "specific_angle": "Gold is forged in cataclysmic star crashes",
-      "primary_entity": "Neutron stars",
-      "knowledge_gap": "Gold atoms only form in extreme astrophysical events",
-      "subject_fingerprint": "astrophysical atom cataclysmic collision crashe dead essentially event extreme forged form gold neutron nucleosynthesi only star stardust",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "LqFaFYTDKxo",
-      "content_type": "shorts",
-      "title": "The Hidden Cost of Toilet Scrolling",
-      "core_subject": "Bacterial transfer and pelvic health",
-      "topic": "Why you shouldn't use your phone on the toilet",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Your smartphone is likely covered in microscopic particles from your bathroom.",
-      "cta": "Subscribe—before your phone picks up more guests.",
-      "specific_angle": "Aerosolized bacteria and prolonged posture",
-      "primary_entity": "Smartphone device",
-      "knowledge_gap": "The bathroom environment poses risks to your electronics and posture",
-      "subject_fingerprint": "aerosolized bacteria bacterial bathroom device electronic environment health pelvic phone pose posture prolonged risk shouldn smartphone t toilet transfer use",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "4KXXo5-ztVI",
-      "content_type": "shorts",
-      "title": "Why You Can't See Your Own Nose",
-      "core_subject": "Selective attention and neural sensory adaptation",
-      "topic": "Why your brain hides your nose from your vision",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Your nose is always in your vision, but your brain deletes it.",
-      "cta": "Subscribe—your brain filters more than you know.",
-      "specific_angle": "The brain suppresses constant, non-essential visual input",
+      "selected_hook": "You are blind for nearly an hour every single day.",
+      "cta": "Subscribe—there’s more to your perception than you think.",
+      "specific_angle": "How the brain deletes visual data during rapid eye movement",
       "primary_entity": "Human visual cortex",
-      "knowledge_gap": "The brain ignores 'background' objects to prioritize new information",
-      "subject_fingerprint": "adaptation attention background brain constant cortex essential hide human ignore information input neural non nose object prioritize selective sensory suppresse vision visual",
+      "knowledge_gap": "The brain purposefully blinds you during eye shifts",
+      "subject_fingerprint": "blind brain cortex data delete during eye hide human masking movement purposefully rapid saccadic shift vision visual",
       "source": "app_upload"
     },
     {
-      "video_id": "y4VfGYfXB7Q",
+      "video_id": "QZ_W5F0RvXU",
       "content_type": "shorts",
-      "title": "The Secret Language of Bees",
-      "core_subject": "Waggle dance in honeybee communication",
-      "topic": "Why bees dance to share information",
+      "title": "The reason goats have square eyes",
+      "core_subject": "Horizontal pupil adaptation in prey",
+      "topic": "Why are your pupils square-shaped in goats?",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Bees perform complex geometry to tell their hive where food is.",
-      "cta": "Subscribe—bees have more secrets than you think.",
-      "specific_angle": "Encoding spatial coordinates into physical movement",
-      "primary_entity": "Honeybee",
-      "knowledge_gap": "Bees communicate vector directions through kinetic patterns",
-      "subject_fingerprint": "bees communicate communication coordinate dance direction encoding honeybee information kinetic movement pattern physical share spatial through vector waggle",
+      "selected_hook": "A goat’s eyes are designed like a high-end panoramic camera.",
+      "cta": "Subscribe—nature’s design for survival is stranger than you imagined.",
+      "specific_angle": "Why horizontal pupils provide a 340-degree panoramic view",
+      "primary_entity": "Goat eye",
+      "knowledge_gap": "Square pupils are a strategic panoramic lens for prey",
+      "subject_fingerprint": "340 adaptation degree eye goat horizontal lens panoramic prey provide pupil shaped square strategic view",
       "source": "app_upload"
     },
     {
-      "video_id": "0gvcRfKcHOA",
+      "video_id": "h0pLxm1ddrw",
       "content_type": "shorts",
-      "title": "The Fish That Walk On Land",
-      "core_subject": "Amphibious adaptation in mudskippers",
-      "topic": "Why some fish can breathe on land",
+      "title": "The fish with a transparent skull",
+      "core_subject": "Barreleye fish tubular eyes",
+      "topic": "Why do some fish have 'windows' on their head?",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Some fish can spend most of their lives breathing on land.",
-      "cta": "Subscribe—nature's designs are always surprising.",
-      "specific_angle": "Retaining water in gill chambers for oxygen exchange",
-      "primary_entity": "Mudskipper",
-      "knowledge_gap": "Fish use their gill chambers as portable water tanks",
-      "subject_fingerprint": "adaptation amphibiou as breathe chamber exchange fish gill land mudskipper oxygen portable retaining some tank their use water",
+      "selected_hook": "This deep-sea fish actually looks through its own forehead.",
+      "cta": "Subscribe—there are stranger creatures lurking in the deep.",
+      "specific_angle": "The evolutionary purpose of the transparent, fluid-filled shield",
+      "primary_entity": "Barreleye fish",
+      "knowledge_gap": "Their 'forehead' is a transparent window to protect tubular eyes",
+      "subject_fingerprint": "barreleye evolutionary eyes filled fish fluid forehead have head protect purpose shield some their transparent tubular window",
       "source": "app_upload"
     },
     {
-      "video_id": "w7MhyF0k1UQ",
+      "video_id": "-TFeGBBjjxo",
       "content_type": "shorts",
-      "title": "The Hidden Colors of Shadows",
-      "core_subject": "Diffuse sky radiation and reflected light",
-      "topic": "Why your shadow isn't actually black",
+      "title": "The secret reason you have fingerprints",
+      "core_subject": "Fingerprint tactile sensitivity",
+      "topic": "Why your fingerprints aren't just for grip",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Your shadow is actually filled with blue light, not black.",
-      "cta": "Subscribe—your world is more colorful.",
-      "specific_angle": "Shadows contain blue light from the atmosphere",
-      "primary_entity": "Shadow",
-      "knowledge_gap": "Shadows aren't empty of light; they are filled with ambient blue light",
-      "subject_fingerprint": "ambient aren atmosphere black blue contain diffuse empty filled isn light radiation reflected shadow sky t they",
+      "selected_hook": "Your fingerprints aren't just for grip; they are texture amplifiers.",
+      "cta": "Subscribe—your skin knows more than you think.",
+      "specific_angle": "How fingerprints act as frequency filters for touch",
+      "primary_entity": "Human fingertips",
+      "knowledge_gap": "Fingerprints amplify vibrations to help us detect texture",
+      "subject_fingerprint": "act amplify aren as detect filter fingerprint fingertip frequency grip help human sensitivity t tactile texture touch us vibration",
       "source": "app_upload"
     },
     {
-      "video_id": "smLfNSw1tXE",
+      "video_id": "N3Yzr1bugVQ",
       "content_type": "shorts",
-      "title": "The Microbiome of Your Mouth",
-      "core_subject": "Oral microbiology and bacterial competition",
-      "topic": "The silent war inside your own mouth",
+      "title": "Why your bones are literally electrical",
+      "core_subject": "Piezoelectricity in human bone",
+      "topic": "Why your bones 'sing' under pressure",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "There is a silent war happening inside your mouth right now.",
-      "cta": "Subscribe—there's more hiding inside your own body.",
-      "specific_angle": "Constant shifts in bacterial biofilm populations",
-      "primary_entity": "Oral microbiome",
-      "knowledge_gap": "Your teeth are a battlefield for competing bacterial colonies",
-      "subject_fingerprint": "bacterial battlefield biofilm colony competing competition constant inside microbiology microbiome mouth oral own population shift silent teeth war",
+      "selected_hook": "Your bones are literally generating electricity every time you move.",
+      "cta": "Subscribe—your skeleton is building itself one spark at a time.",
+      "specific_angle": "How mechanical stress on bones generates tiny electrical charges",
+      "primary_entity": "Human femur",
+      "knowledge_gap": "Bones generate electricity to signal for repairs",
+      "subject_fingerprint": "bone charge electrical electricity femur generate human mechanical piezoelectricity pressure repair signal sing stress tiny under",
+      "source": "app_upload"
+    },
+    {
+      "video_id": "AsqlrBe-Acg",
+      "content_type": "shorts",
+      "title": "The science behind the smell of rain",
+      "core_subject": "Petrichor and geosmin",
+      "topic": "Why does rain smell like Earth?",
+      "category": "",
+      "hook_style": "",
+      "quality_score": 0.0,
+      "selected_hook": "That refreshing scent of rain is actually a bacterial cloud.",
+      "cta": "Subscribe—nature’s chemistry is hiding in plain sight.",
+      "specific_angle": "How aerosolized soil bacteria creates the scent of petrichor",
+      "primary_entity": "Petrichor (geosmin)",
+      "knowledge_gap": "The smell of rain is actually bacteria being kicked up",
+      "subject_fingerprint": "aerosolized bacteria being create earth geosmin kicked like petrichor rain scent smell soil up",
+      "source": "app_upload"
+    },
+    {
+      "video_id": "humx_hF02xQ",
+      "content_type": "shorts",
+      "title": "The giant nursery of the deep sea",
+      "core_subject": "Twilight Zone (Mesopelagic) ecological role",
+      "topic": "Why the ocean's 'twilight zone' is a giant nursery",
+      "category": "",
+      "hook_style": "",
+      "quality_score": 0.0,
+      "selected_hook": "The ocean's most vital nursery is hidden in the dark.",
+      "cta": "Subscribe—the ocean is deeper than the surface reveals.",
+      "specific_angle": "Why millions of animals migrate here to spawn and feed",
+      "primary_entity": "Mesopelagic zone",
+      "knowledge_gap": "The twilight zone is a hidden, massive nursery for marine life",
+      "subject_fingerprint": "animal ecological feed giant here hidden life marine massive mesopelagic migrate million nursery ocean role s spawn twilight zone",
+      "source": "app_upload"
+    },
+    {
+      "video_id": "NLULnKp_MNw",
+      "content_type": "shorts",
+      "title": "The secret of dragonfly flight",
+      "core_subject": "Dragonfly wing nanostructure",
+      "topic": "The secret weapon inside a dragonfly's wing",
+      "category": "",
+      "hook_style": "",
+      "quality_score": 0.0,
+      "selected_hook": "Dragonfly wings are essentially natural, self-cleaning biological weapons.",
+      "cta": "Subscribe—the smallest engineering in nature is the most advanced.",
+      "specific_angle": "How nano-pillars on wings kill bacteria",
+      "primary_entity": "Dragonfly wing",
+      "knowledge_gap": "Dragonfly wings are self-sterilizing thanks to nano-geometry",
+      "subject_fingerprint": "bacteria dragonfly geometry inside kill nano nanostructure pillar s self sterilizing thank weapon wing",
       "source": "app_upload"
     }
   ],
@@ -7496,5 +7648,5 @@
       "source": "youtube_sync"
     }
   ],
-  "last_sync": "2026-10-07T17:29:15.097868+00:00"
+  "last_sync": "2026-10-09T17:05:48.568100+00:00"
 }
