@@ -32,7 +32,7 @@ IST = ZoneInfo("Asia/Kolkata")
 
 STYLE = os.getenv("SHORT_STYLE", "Documentary")
 VOICE = os.getenv("SHORT_VOICE", "Kore")
-BATCH_SIZE = 8
+BATCH_SIZE = 4
 
 
 def _git(*args, check=True):
