@@ -1,6 +1,196 @@
 {
   "shorts": [
     {
+      "video_id": "5wu5xlGUTXY",
+      "content_type": "shorts",
+      "title": "The Bird That Never Lands",
+      "core_subject": "The Bird That Never Lands",
+      "topic": "The Bird That Never Lands",
+      "description": "How do birds sleep without crashing? It's all in the brain. #shorts #science #nature",
+      "tags": [
+        "nature",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-17T14:30:22Z",
+      "duration": "PT22S",
+      "views": 120,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "T-3hkE2s2hU",
+      "content_type": "shorts",
+      "title": "The Secret Sense of Plants",
+      "core_subject": "The Secret Sense of Plants",
+      "topic": "The Secret Sense of Plants",
+      "description": "Gravity is the secret compass for every plant on Earth. #shorts #botany #science",
+      "tags": [
+        "botany",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-17T14:14:16Z",
+      "duration": "PT24S",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "0bBgWTt67fQ",
+      "content_type": "shorts",
+      "title": "The Evolution of Your Bite",
+      "core_subject": "The Evolution of Your Bite",
+      "topic": "The Evolution of Your Bite",
+      "description": "How stone tools changed the shape of the human jaw.",
+      "tags": [
+        "evolution",
+        "history",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-10T23:30:26Z",
+      "duration": "PT25S",
+      "views": 89,
+      "likes": 3,
+      "comments": 1,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "qyDOgb9TJJ4",
+      "content_type": "shorts",
+      "title": "The Trick Your Skin Plays",
+      "core_subject": "The Trick Your Skin Plays",
+      "topic": "The Trick Your Skin Plays",
+      "description": "Why cold feels like heat: the science of paradoxical cold.",
+      "tags": [
+        "psychology",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-10T22:30:06Z",
+      "duration": "PT27S",
+      "views": 8,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "ZW4jxAPREtU",
+      "content_type": "shorts",
+      "title": "The Battery Inside Your Chest",
+      "core_subject": "The Battery Inside Your Chest",
+      "topic": "The Battery Inside Your Chest",
+      "description": "How the heart restarts itself: the sinoatrial node.",
+      "tags": [
+        "body",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-10T21:30:09Z",
+      "duration": "PT23S",
+      "views": 44,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "fr8W-oYAKiA",
+      "content_type": "shorts",
+      "title": "The Blood That Isn't Red",
+      "core_subject": "The Blood That Isn't Red",
+      "topic": "The Blood That Isn't Red",
+      "description": "Why some animals have blue blood: the copper-based oxygen system.",
+      "tags": [
+        "nature",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-10T20:30:01Z",
+      "duration": "PT26S",
+      "views": 243,
+      "likes": 7,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "nrOyDonZy_E",
+      "content_type": "shorts",
+      "title": "The Hidden Key to Flavor",
+      "core_subject": "The Hidden Key to Flavor",
+      "topic": "The Hidden Key to Flavor",
+      "description": "Why salt makes everything taste better: it's not just flavor.",
+      "tags": [
+        "food",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-10T19:30:02Z",
+      "duration": "PT23S",
+      "views": 419,
+      "likes": 9,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "LsRQLGJUIog",
+      "content_type": "shorts",
+      "title": "The Fly’s Time-Dilated World",
+      "core_subject": "The Fly’s Time-Dilated World",
+      "topic": "The Fly’s Time-Dilated World",
+      "description": "Why you can't catch a fly: the science of flicker fusion.",
+      "tags": [
+        "insects",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-10T18:30:09Z",
+      "duration": "PT23S",
+      "views": 159,
+      "likes": 3,
+      "comments": 1,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "bpJYp-e-XAU",
+      "content_type": "shorts",
+      "title": "The Blindness in Your Own Eyes",
+      "core_subject": "The Blindness in Your Own Eyes",
+      "topic": "The Blindness in Your Own Eyes",
+      "description": "Why your brain hides your own blinking.",
+      "tags": [
+        "brain",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-10T17:30:06Z",
+      "duration": "PT25S",
+      "views": 79,
+      "likes": 1,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "4w1_yXWwFhk",
+      "content_type": "shorts",
+      "title": "The Billion-Mile Spider Migration",
+      "core_subject": "The Billion-Mile Spider Migration",
+      "topic": "The Billion-Mile Spider Migration",
+      "description": "How spiders achieve flight without wings using static electricity.",
+      "tags": [
+        "nature",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-10T16:30:10Z",
+      "duration": "PT25S",
+      "views": 634,
+      "likes": 12,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
       "video_id": "NLULnKp_MNw",
       "content_type": "shorts",
       "title": "The secret of dragonfly flight",
@@ -14,8 +204,8 @@
       ],
       "publishedAt": "2026-10-10T00:30:03Z",
       "duration": "PT25S",
-      "views": 96,
-      "likes": 6,
+      "views": 119,
+      "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -33,8 +223,8 @@
       ],
       "publishedAt": "2026-10-09T23:30:28Z",
       "duration": "PT26S",
-      "views": 130,
-      "likes": 7,
+      "views": 143,
+      "likes": 10,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -71,7 +261,7 @@
       ],
       "publishedAt": "2026-10-09T21:30:18Z",
       "duration": "PT23S",
-      "views": 25,
+      "views": 27,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -90,8 +280,8 @@
       ],
       "publishedAt": "2026-10-09T20:30:07Z",
       "duration": "PT23S",
-      "views": 232,
-      "likes": 4,
+      "views": 963,
+      "likes": 9,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -109,8 +299,8 @@
       ],
       "publishedAt": "2026-10-09T19:30:33Z",
       "duration": "PT24S",
-      "views": 843,
-      "likes": 12,
+      "views": 996,
+      "likes": 16,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -128,7 +318,7 @@
       ],
       "publishedAt": "2026-10-09T18:30:00Z",
       "duration": "PT25S",
-      "views": 28,
+      "views": 47,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -147,8 +337,8 @@
       ],
       "publishedAt": "2026-10-09T17:30:03Z",
       "duration": "PT24S",
-      "views": 407,
-      "likes": 1,
+      "views": 428,
+      "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -166,7 +356,7 @@
       ],
       "publishedAt": "2026-10-08T01:30:04Z",
       "duration": "PT27S",
-      "views": 503,
+      "views": 501,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -185,7 +375,7 @@
       ],
       "publishedAt": "2026-10-08T00:30:08Z",
       "duration": "PT24S",
-      "views": 658,
+      "views": 656,
       "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
@@ -204,7 +394,7 @@
       ],
       "publishedAt": "2026-10-07T23:30:16Z",
       "duration": "PT27S",
-      "views": 864,
+      "views": 865,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -261,8 +451,8 @@
       ],
       "publishedAt": "2026-10-07T20:30:08Z",
       "duration": "PT24S",
-      "views": 112,
-      "likes": 4,
+      "views": 114,
+      "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -299,7 +489,7 @@
       ],
       "publishedAt": "2026-10-07T18:30:14Z",
       "duration": "PT24S",
-      "views": 21,
+      "views": 23,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -337,7 +527,7 @@
       ],
       "publishedAt": "2026-10-06T21:30:26Z",
       "duration": "PT20S",
-      "views": 592,
+      "views": 595,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -356,7 +546,7 @@
       ],
       "publishedAt": "2026-10-06T20:30:03Z",
       "duration": "PT24S",
-      "views": 122,
+      "views": 121,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -413,7 +603,7 @@
       ],
       "publishedAt": "2026-10-06T17:30:20Z",
       "duration": "PT22S",
-      "views": 262,
+      "views": 265,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -432,7 +622,7 @@
       ],
       "publishedAt": "2026-10-06T16:30:32Z",
       "duration": "PT23S",
-      "views": 760,
+      "views": 761,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -451,7 +641,7 @@
       ],
       "publishedAt": "2026-10-06T15:30:15Z",
       "duration": "PT22S",
-      "views": 202,
+      "views": 203,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -489,8 +679,8 @@
       ],
       "publishedAt": "2026-10-06T02:30:02Z",
       "duration": "PT24S",
-      "views": 73,
-      "likes": 1,
+      "views": 76,
+      "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -565,7 +755,7 @@
       ],
       "publishedAt": "2026-10-05T21:30:33Z",
       "duration": "PT28S",
-      "views": 63,
+      "views": 64,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -584,7 +774,7 @@
       ],
       "publishedAt": "2026-10-05T20:30:33Z",
       "duration": "PT23S",
-      "views": 320,
+      "views": 321,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -603,7 +793,7 @@
       ],
       "publishedAt": "2026-10-05T18:30:33Z",
       "duration": "PT21S",
-      "views": 59,
+      "views": 58,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -622,7 +812,7 @@
       ],
       "publishedAt": "2026-10-05T16:30:16Z",
       "duration": "PT27S",
-      "views": 44,
+      "views": 45,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -660,7 +850,7 @@
       ],
       "publishedAt": "2026-10-05T03:30:05Z",
       "duration": "PT29S",
-      "views": 71,
+      "views": 72,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -679,7 +869,7 @@
       ],
       "publishedAt": "2026-10-05T01:30:07Z",
       "duration": "PT26S",
-      "views": 116,
+      "views": 118,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -736,7 +926,7 @@
       ],
       "publishedAt": "2026-10-04T22:30:15Z",
       "duration": "PT23S",
-      "views": 590,
+      "views": 591,
       "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
@@ -755,27 +945,8 @@
       ],
       "publishedAt": "2026-10-04T21:30:22Z",
       "duration": "PT26S",
-      "views": 376,
+      "views": 377,
       "likes": 6,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
-    {
-      "video_id": "Q1yfSYgMriQ",
-      "content_type": "shorts",
-      "title": "The Chemistry of Living Light",
-      "core_subject": "The Chemistry of Living Light",
-      "topic": "The Chemistry of Living Light",
-      "description": "Efficiency at its finest. #shorts #nature #science",
-      "tags": [
-        "facts",
-        "science",
-        "shorts"
-      ],
-      "publishedAt": "2026-10-04T20:30:38Z",
-      "duration": "PT26S",
-      "views": 70,
-      "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -799,25 +970,6 @@
       "source": "youtube_sync"
     },
     {
-      "video_id": "MqVSfu6x0eI",
-      "content_type": "shorts",
-      "title": "The Paradox of Freezing Water",
-      "core_subject": "The Paradox of Freezing Water",
-      "topic": "The Paradox of Freezing Water",
-      "description": "It sounds impossible, but it is real physics. #shorts #science #physics",
-      "tags": [
-        "facts",
-        "science",
-        "shorts"
-      ],
-      "publishedAt": "2026-10-04T18:30:12Z",
-      "duration": "PT26S",
-      "views": 110,
-      "likes": 0,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
-    {
       "video_id": "4Vl0rAdwjHE",
       "content_type": "shorts",
       "title": "Why the Moon Stays Put",
@@ -833,25 +985,6 @@
       "duration": "PT24S",
       "views": 118,
       "likes": 5,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
-    {
-      "video_id": "_p7VbThdYZs",
-      "content_type": "shorts",
-      "title": "The Physics of Cat Reflexes",
-      "core_subject": "The Physics of Cat Reflexes",
-      "topic": "The Physics of Cat Reflexes",
-      "description": "Cats don't use magic; they use angular momentum. #shorts #science #cats",
-      "tags": [
-        "facts",
-        "science",
-        "shorts"
-      ],
-      "publishedAt": "2026-10-04T16:30:04Z",
-      "duration": "PT26S",
-      "views": 922,
-      "likes": 25,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -888,7 +1021,7 @@
       ],
       "publishedAt": "2026-10-04T13:30:34Z",
       "duration": "PT26S",
-      "views": 621,
+      "views": 623,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -907,7 +1040,7 @@
       ],
       "publishedAt": "2026-10-03T23:30:03Z",
       "duration": "PT24S",
-      "views": 487,
+      "views": 488,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -964,7 +1097,7 @@
       ],
       "publishedAt": "2026-10-03T19:30:09Z",
       "duration": "PT24S",
-      "views": 56,
+      "views": 57,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -1059,7 +1192,7 @@
       ],
       "publishedAt": "2026-10-02T16:30:03Z",
       "duration": "PT25S",
-      "views": 917,
+      "views": 918,
       "likes": 10,
       "comments": 0,
       "source": "youtube_sync"
@@ -1097,7 +1230,7 @@
       ],
       "publishedAt": "2026-10-02T15:48:01Z",
       "duration": "PT23S",
-      "views": 920,
+      "views": 921,
       "likes": 12,
       "comments": 2,
       "source": "youtube_sync"
@@ -1135,7 +1268,7 @@
       ],
       "publishedAt": "2026-10-02T14:15:32Z",
       "duration": "PT27S",
-      "views": 185,
+      "views": 189,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -1302,7 +1435,7 @@
       ],
       "publishedAt": "2026-09-30T11:30:04Z",
       "duration": "PT24S",
-      "views": 706,
+      "views": 708,
       "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
@@ -1340,7 +1473,7 @@
       ],
       "publishedAt": "2026-09-29T16:37:07Z",
       "duration": "PT25S",
-      "views": 367,
+      "views": 369,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -1360,7 +1493,7 @@
       ],
       "publishedAt": "2026-09-29T16:00:27Z",
       "duration": "PT24S",
-      "views": 1318,
+      "views": 1319,
       "likes": 33,
       "comments": 2,
       "source": "youtube_sync"
@@ -1418,7 +1551,7 @@
       ],
       "publishedAt": "2026-09-28T15:15:26Z",
       "duration": "PT21S",
-      "views": 612,
+      "views": 613,
       "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
@@ -1457,7 +1590,7 @@
       ],
       "publishedAt": "2026-09-28T10:15:07Z",
       "duration": "PT31S",
-      "views": 204,
+      "views": 205,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -1495,7 +1628,7 @@
       ],
       "publishedAt": "2026-09-27T16:00:25Z",
       "duration": "PT28S",
-      "views": 615,
+      "views": 617,
       "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
@@ -1514,7 +1647,7 @@
       ],
       "publishedAt": "2026-09-27T15:45:38Z",
       "duration": "PT26S",
-      "views": 830,
+      "views": 832,
       "likes": 13,
       "comments": 0,
       "source": "youtube_sync"
@@ -1704,7 +1837,7 @@
       ],
       "publishedAt": "2026-09-25T14:04:10Z",
       "duration": "PT25S",
-      "views": 291,
+      "views": 292,
       "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
@@ -1742,7 +1875,7 @@
       ],
       "publishedAt": "2026-09-25T06:30:25Z",
       "duration": "PT27S",
-      "views": 976,
+      "views": 977,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -1834,7 +1967,7 @@
       "tags": [],
       "publishedAt": "2026-09-23T09:56:08Z",
       "duration": "PT25S",
-      "views": 680,
+      "views": 681,
       "likes": 12,
       "comments": 0,
       "source": "youtube_sync"
@@ -1872,7 +2005,7 @@
       ],
       "publishedAt": "2026-09-23T08:00:35Z",
       "duration": "PT22S",
-      "views": 371,
+      "views": 375,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -1927,7 +2060,7 @@
       "tags": [],
       "publishedAt": "2026-09-22T14:59:54Z",
       "duration": "PT26S",
-      "views": 302,
+      "views": 303,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -2023,7 +2156,7 @@
       ],
       "publishedAt": "2026-09-20T16:03:13Z",
       "duration": "PT30S",
-      "views": 79,
+      "views": 84,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -2083,7 +2216,7 @@
       ],
       "publishedAt": "2026-09-20T10:03:01Z",
       "duration": "PT29S",
-      "views": 243,
+      "views": 246,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -2311,7 +2444,7 @@
       ],
       "publishedAt": "2026-09-16T17:53:09Z",
       "duration": "PT28S",
-      "views": 220,
+      "views": 222,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -2349,7 +2482,7 @@
       ],
       "publishedAt": "2026-09-16T15:53:13Z",
       "duration": "PT28S",
-      "views": 39,
+      "views": 40,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -2394,7 +2527,7 @@
       ],
       "publishedAt": "2026-09-16T12:46:28Z",
       "duration": "PT2M56S",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -2698,8 +2831,8 @@
       ],
       "publishedAt": "2026-09-12T18:08:25Z",
       "duration": "PT26S",
-      "views": 474,
-      "likes": 3,
+      "views": 496,
+      "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -2755,8 +2888,8 @@
       ],
       "publishedAt": "2026-09-12T15:08:14Z",
       "duration": "PT30S",
-      "views": 1073,
-      "likes": 19,
+      "views": 1078,
+      "likes": 20,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -2793,7 +2926,7 @@
       ],
       "publishedAt": "2026-09-11T16:36:06Z",
       "duration": "PT28S",
-      "views": 957,
+      "views": 958,
       "likes": 10,
       "comments": 0,
       "source": "youtube_sync"
@@ -2832,8 +2965,27 @@
       ],
       "publishedAt": "2026-09-11T15:36:30Z",
       "duration": "PT35S",
-      "views": 727,
+      "views": 728,
       "likes": 5,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "S90Od9Db_jA",
+      "content_type": "shorts",
+      "title": "The man who survived three days trapped in an underwater sunken tugboat by breathing an air pocket.",
+      "core_subject": "The man who survived three days trapped in an underwater sunken tugboat by breathing an air pocket.",
+      "topic": "The man who survived three days trapped in an underwater sunken tugboat by breathing an air pocket.",
+      "description": "Harrison Okene's incredible survival story after his ship sank. #survival #ocean #miracle",
+      "tags": [
+        "miracle",
+        "ocean",
+        "survival"
+      ],
+      "publishedAt": "2026-09-11T14:36:07Z",
+      "duration": "PT29S",
+      "views": 1016,
+      "likes": 13,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -2851,7 +3003,7 @@
       ],
       "publishedAt": "2026-09-10T17:30:05Z",
       "duration": "PT33S",
-      "views": 1036,
+      "views": 1037,
       "likes": 9,
       "comments": 0,
       "source": "youtube_sync"
@@ -2889,7 +3041,7 @@
       ],
       "publishedAt": "2026-09-10T15:30:14Z",
       "duration": "PT37S",
-      "views": 472,
+      "views": 473,
       "likes": 5,
       "comments": 1,
       "source": "youtube_sync"
@@ -2971,7 +3123,7 @@
       ],
       "publishedAt": "2026-09-09T18:03:35Z",
       "duration": "PT32S",
-      "views": 995,
+      "views": 997,
       "likes": 24,
       "comments": 0,
       "source": "youtube_sync"
@@ -3161,7 +3313,7 @@
       ],
       "publishedAt": "2026-09-06T15:30:17Z",
       "duration": "PT25S",
-      "views": 73,
+      "views": 75,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -3199,7 +3351,7 @@
       ],
       "publishedAt": "2026-09-06T13:30:19Z",
       "duration": "PT26S",
-      "views": 944,
+      "views": 946,
       "likes": 19,
       "comments": 0,
       "source": "youtube_sync"
@@ -3312,7 +3464,7 @@
       ],
       "publishedAt": "2026-09-04T15:30:22Z",
       "duration": "PT29S",
-      "views": 559,
+      "views": 560,
       "likes": 11,
       "comments": 1,
       "source": "youtube_sync"
@@ -3331,7 +3483,7 @@
       ],
       "publishedAt": "2026-09-04T14:30:32Z",
       "duration": "PT30S",
-      "views": 362,
+      "views": 367,
       "likes": 9,
       "comments": 0,
       "source": "youtube_sync"
@@ -3369,7 +3521,7 @@
       ],
       "publishedAt": "2026-09-04T12:30:35Z",
       "duration": "PT30S",
-      "views": 39,
+      "views": 40,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -3388,7 +3540,7 @@
       ],
       "publishedAt": "2026-09-04T11:30:07Z",
       "duration": "PT27S",
-      "views": 110,
+      "views": 112,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -3485,7 +3637,7 @@
       ],
       "publishedAt": "2026-09-04T00:45:28Z",
       "duration": "PT23S",
-      "views": 232,
+      "views": 241,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -3523,7 +3675,7 @@
       ],
       "publishedAt": "2026-09-03T22:45:11Z",
       "duration": "PT27S",
-      "views": 18,
+      "views": 19,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -3542,7 +3694,7 @@
       ],
       "publishedAt": "2026-09-03T21:45:20Z",
       "duration": "PT29S",
-      "views": 16,
+      "views": 17,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -3580,7 +3732,7 @@
       ],
       "publishedAt": "2026-09-03T19:45:27Z",
       "duration": "PT28S",
-      "views": 46,
+      "views": 47,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -3619,7 +3771,7 @@
       ],
       "publishedAt": "2026-09-03T18:45:09Z",
       "duration": "PT24S",
-      "views": 128,
+      "views": 129,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -3763,7 +3915,7 @@
       "tags": [],
       "publishedAt": "2026-09-01T18:06:53Z",
       "duration": "PT32S",
-      "views": 1034,
+      "views": 1036,
       "likes": 15,
       "comments": 0,
       "source": "youtube_sync"
@@ -3808,7 +3960,7 @@
       "tags": [],
       "publishedAt": "2026-08-31T12:49:16Z",
       "duration": "PT34S",
-      "views": 914,
+      "views": 916,
       "likes": 17,
       "comments": 0,
       "source": "youtube_sync"
@@ -3958,7 +4110,7 @@
       "tags": [],
       "publishedAt": "2026-08-27T18:37:49Z",
       "duration": "PT31S",
-      "views": 660,
+      "views": 661,
       "likes": 6,
       "comments": 0,
       "source": "youtube_sync"
@@ -4273,7 +4425,7 @@
       "tags": [],
       "publishedAt": "2026-08-21T15:27:58Z",
       "duration": "PT26S",
-      "views": 1170,
+      "views": 1171,
       "likes": 20,
       "comments": 0,
       "source": "youtube_sync"
@@ -4288,7 +4440,7 @@
       "tags": [],
       "publishedAt": "2026-08-21T13:12:57Z",
       "duration": "PT24S",
-      "views": 1207,
+      "views": 1208,
       "likes": 15,
       "comments": 0,
       "source": "youtube_sync"
@@ -4348,7 +4500,7 @@
       "tags": [],
       "publishedAt": "2026-08-17T07:11:31Z",
       "duration": "PT37S",
-      "views": 275,
+      "views": 276,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -4558,7 +4710,7 @@
       "tags": [],
       "publishedAt": "2026-08-01T06:56:30Z",
       "duration": "PT21S",
-      "views": 1346,
+      "views": 1348,
       "likes": 22,
       "comments": 0,
       "source": "youtube_sync"
@@ -4663,7 +4815,7 @@
       "tags": [],
       "publishedAt": "2026-07-17T17:54:31Z",
       "duration": "PT23S",
-      "views": 25,
+      "views": 26,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -5008,7 +5160,7 @@
       "tags": [],
       "publishedAt": "2026-07-11T06:43:15Z",
       "duration": "PT15S",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -5443,7 +5595,7 @@
       "tags": [],
       "publishedAt": "2026-07-06T07:02:07Z",
       "duration": "PT15S",
-      "views": 1604,
+      "views": 1606,
       "likes": 19,
       "comments": 0,
       "source": "youtube_sync"
@@ -6163,7 +6315,7 @@
       "tags": [],
       "publishedAt": "2026-06-11T08:07:01Z",
       "duration": "PT20S",
-      "views": 959,
+      "views": 960,
       "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
@@ -6493,7 +6645,7 @@
       "tags": [],
       "publishedAt": "2026-05-28T05:17:43Z",
       "duration": "PT26S",
-      "views": 69,
+      "views": 70,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -7153,7 +7305,7 @@
       "tags": [],
       "publishedAt": "2026-04-25T15:54:27Z",
       "duration": "PT33S",
-      "views": 1254,
+      "views": 1257,
       "likes": 24,
       "comments": 2,
       "source": "youtube_sync"
@@ -7228,7 +7380,7 @@
       "tags": [],
       "publishedAt": "2026-04-23T14:49:29Z",
       "duration": "PT18S",
-      "views": 1518,
+      "views": 1519,
       "likes": 6,
       "comments": 1,
       "source": "youtube_sync"
@@ -7444,21 +7596,59 @@
       "source": "youtube_sync"
     },
     {
-      "video_id": "S90Od9Db_jA",
+      "video_id": "Q1yfSYgMriQ",
       "content_type": "shorts",
-      "title": "The man who survived three days trapped in an underwater sunken tugboat by breathing an air pocket.",
-      "core_subject": "The man who survived three days trapped in an underwater sunken tugboat by breathing an air pocket.",
-      "topic": "The man who survived three days trapped in an underwater sunken tugboat by breathing an air pocket.",
-      "description": "Harrison Okene's incredible survival story after his ship sank. #survival #ocean #miracle",
+      "title": "The Chemistry of Living Light",
+      "core_subject": "The Chemistry of Living Light",
+      "topic": "The Chemistry of Living Light",
+      "description": "Efficiency at its finest. #shorts #nature #science",
       "tags": [
-        "miracle",
-        "ocean",
-        "survival"
+        "facts",
+        "science",
+        "shorts"
       ],
-      "publishedAt": "2026-09-11T14:36:07Z",
-      "duration": "PT29S",
-      "views": 1016,
-      "likes": 13,
+      "publishedAt": "2026-10-04T20:30:38Z",
+      "duration": "PT26S",
+      "views": 70,
+      "likes": 2,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "MqVSfu6x0eI",
+      "content_type": "shorts",
+      "title": "The Paradox of Freezing Water",
+      "core_subject": "The Paradox of Freezing Water",
+      "topic": "The Paradox of Freezing Water",
+      "description": "It sounds impossible, but it is real physics. #shorts #science #physics",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T18:30:12Z",
+      "duration": "PT26S",
+      "views": 110,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "_p7VbThdYZs",
+      "content_type": "shorts",
+      "title": "The Physics of Cat Reflexes",
+      "core_subject": "The Physics of Cat Reflexes",
+      "topic": "The Physics of Cat Reflexes",
+      "description": "Cats don't use magic; they use angular momentum. #shorts #science #cats",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T16:30:04Z",
+      "duration": "PT26S",
+      "views": 922,
+      "likes": 25,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -7621,143 +7811,94 @@
       "source": "app_upload"
     },
     {
-      "video_id": "4w1_yXWwFhk",
+      "video_id": "9hJUP9wqpVg",
       "content_type": "shorts",
-      "title": "The Billion-Mile Spider Migration",
-      "core_subject": "Ballooning behavior in spiders",
-      "topic": "How spiders 'fly' without wings",
+      "title": "Why Identical Twins Don't Have Identical Fingerprints",
+      "core_subject": "developmental biology of fingerprints",
+      "topic": "The real reason your fingerprints don't match your twin's.",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Spiders don't fly by wind; they use the Earth’s own electric field.",
-      "cta": "Subscribe—the air around us is crawling.",
-      "specific_angle": "Using static electricity for flight",
-      "primary_entity": "Orb-weaver spider",
-      "knowledge_gap": "Spiders use electric fields, not just wind, to travel",
-      "subject_fingerprint": "ballooning behavior electric electricity field flight fly not orb spider static travel use using weaver wind wing without",
+      "selected_hook": "Your unique fingerprints are actually born from random fetal movement.",
+      "cta": "Subscribe—your body has secrets your DNA cannot write.",
+      "specific_angle": "environmental factors during gestation override genetics",
+      "primary_entity": "human fingerprints",
+      "knowledge_gap": "random fetal movement shapes unique friction ridges",
+      "subject_fingerprint": "biology developmental don during environmental factor fetal fingerprint friction genetic gestation human match movement override random reason ridge s shape t twin unique",
       "source": "app_upload"
     },
     {
-      "video_id": "bpJYp-e-XAU",
+      "video_id": "rVEx-IYFvHk",
       "content_type": "shorts",
-      "title": "The Blindness in Your Own Eyes",
-      "core_subject": "Saccadic masking in human vision",
-      "topic": "Why your brain hides your own blinking",
+      "title": "The Evolutionary Mystery of Teeth",
+      "core_subject": "dental anatomy and regeneration",
+      "topic": "Why are your teeth the only part of you that can’t heal?",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Your brain actively hides the blank moments of every single blink.",
-      "cta": "Subscribe—your perception is a carefully crafted illusion.",
-      "specific_angle": "Neurological suppression of blink movement",
-      "primary_entity": "Human brain",
-      "knowledge_gap": "The brain physically deletes the visual input of a blink",
-      "subject_fingerprint": "blink blinking brain delete hide human input masking movement neurological own physically saccadic suppression vision visual",
+      "selected_hook": "Your teeth are the only body part that cannot repair themselves.",
+      "cta": "Subscribe—your body is built to fail eventually.",
+      "specific_angle": "enamel is non-living tissue lacking cells",
+      "primary_entity": "human teeth",
+      "knowledge_gap": "enamel has no living cells to repair damage",
+      "subject_fingerprint": "anatomy cell damage dental enamel has heal human lacking living no non only part regeneration repair t teeth tissue",
       "source": "app_upload"
     },
     {
-      "video_id": "LsRQLGJUIog",
+      "video_id": "AgbtjYVGR1U",
       "content_type": "shorts",
-      "title": "The Fly’s Time-Dilated World",
-      "core_subject": "Flicker fusion frequency in insects",
-      "topic": "The invisible reason you can’t catch a fly",
+      "title": "The Secret Language of Seismic Hearing",
+      "core_subject": "seismic communication in animals",
+      "topic": "How do animals 'hear' through their feet?",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "You can't catch a fly because it sees you in slow-motion.",
-      "cta": "Subscribe—the insect world moves in a different time.",
-      "specific_angle": "How flies perceive time much slower than humans",
-      "primary_entity": "Housefly",
-      "knowledge_gap": "Flies see human movement as slow motion",
-      "subject_fingerprint": "as catch flicker fly frequency fusion housefly human insect invisible motion movement much perceive reason see slow slower t than time",
+      "selected_hook": "Some animals don't use their ears to hear; they use feet.",
+      "cta": "Subscribe—the earth is constantly whispering to those who listen.",
+      "specific_angle": "mechanoreceptors detect vibrations in the ground",
+      "primary_entity": "elephants or spiders",
+      "knowledge_gap": "vibrations travel through the ground to nerves",
+      "subject_fingerprint": "animal communication detect elephant feet ground hear mechanoreceptor nerve seismic spider their through travel vibration",
       "source": "app_upload"
     },
     {
-      "video_id": "nrOyDonZy_E",
+      "video_id": "USiIktN4gWw",
       "content_type": "shorts",
-      "title": "The Hidden Key to Flavor",
-      "core_subject": "Salt's role in taste enhancement",
-      "topic": "Why salt makes everything taste better",
+      "title": "The Brainless Navigator of the Ocean",
+      "core_subject": "decentralized nervous systems",
+      "topic": "How do jellyfish navigate without a brain?",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Salt makes food taste better by hiding the things you hate.",
-      "cta": "Subscribe—your tongue is a chemistry lab.",
-      "specific_angle": "Suppression of bitterness in foods",
-      "primary_entity": "Sodium ions",
-      "knowledge_gap": "Salt doesn't just add flavor; it blocks bitterness",
-      "subject_fingerprint": "add better bitterness block doesn enhancement everything flavor food ions it make role s salt sodium suppression t taste",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "fr8W-oYAKiA",
-      "content_type": "shorts",
-      "title": "The Blood That Isn't Red",
-      "core_subject": "Hemocyanin vs Hemoglobin",
-      "topic": "Why copper-rich blood is blue",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Some creatures swap iron for copper to move their oxygen.",
-      "cta": "Subscribe—nature’s color palette is wilder than you think.",
-      "specific_angle": "Copper-based blood oxygenation",
-      "primary_entity": "Horseshoe crab / Octopus",
-      "knowledge_gap": "Copper-based blood turns blue when oxygenated",
-      "subject_fingerprint": "based blood blue copper crab hemocyanin hemoglobin horseshoe octopu oxygenated oxygenation rich turn vs",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "ZW4jxAPREtU",
-      "content_type": "shorts",
-      "title": "The Battery Inside Your Chest",
-      "core_subject": "Cardiac electrical conduction system",
-      "topic": "How the heart 'restarts' itself",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Your heart keeps beating even when completely detached from the brain.",
-      "cta": "Subscribe—your body runs on its own power.",
-      "specific_angle": "The sinoatrial node's internal rhythm",
-      "primary_entity": "The human heart",
-      "knowledge_gap": "The heart has its own internal pacemaker independent of the brain",
-      "subject_fingerprint": "brain cardiac conduction electrical has heart human independent internal its itself node own pacemaker restart rhythm s sinoatrial system",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "qyDOgb9TJJ4",
-      "content_type": "shorts",
-      "title": "The Trick Your Skin Plays",
-      "core_subject": "Thermal grill illusion and sensory confusion",
-      "topic": "Why cold water feels hotter than it is",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Extreme cold tricks your brain into sensing searing heat.",
-      "cta": "Subscribe—your senses aren't as reliable as you think.",
-      "specific_angle": "Paradoxical cold sensation",
-      "primary_entity": "Human skin receptors",
-      "knowledge_gap": "Extreme cold can trick pain receptors, mimicking burning heat",
-      "subject_fingerprint": "burning cold confusion extreme feel grill heat hotter human illusion it mimicking pain paradoxical receptor sensation sensory skin than thermal trick water",
-      "source": "app_upload"
-    },
-    {
-      "video_id": "0bBgWTt67fQ",
-      "content_type": "shorts",
-      "title": "The Evolution of Your Bite",
-      "core_subject": "Human evolution and diet transition",
-      "topic": "How stone tools changed the shape of your jaw",
-      "category": "",
-      "hook_style": "",
-      "quality_score": 0.0,
-      "selected_hook": "Your jaw is smaller because our ancestors invented the knife.",
-      "cta": "Subscribe—our past is carved into your face.",
-      "specific_angle": "Impact of food processing on jaw development",
-      "primary_entity": "Human mandible",
-      "knowledge_gap": "Using stone tools led to smaller jaws and teeth",
-      "subject_fingerprint": "changed development diet evolution food human impact jaw jaws led mandible processing shape smaller stone teeth tool transition using",
+      "selected_hook": "How do jellyfish navigate the ocean without a single brain?",
+      "cta": "Subscribe—the ocean is full of sentient-looking machines.",
+      "specific_angle": "nerve nets respond to environmental stimuli instead of processing thought",
+      "primary_entity": "jellyfish",
+      "knowledge_gap": "distributed nerve nets act like a brain",
+      "subject_fingerprint": "act brain decentralized distributed environmental instead jellyfish like navigate nerve nervou nets processing respond stimuli system thought without",
       "source": "app_upload"
     }
   ],
   "long": [
+    {
+      "video_id": "j-DntBZysQk",
+      "content_type": "long",
+      "title": "Your Body's Sleeping Bodyguard",
+      "core_subject": "Your Body's Sleeping Bodyguard",
+      "topic": "Your Body's Sleeping Bodyguard",
+      "description": "Your brain never really sleeps—it's always guarding your balance. #shorts #science #anatomy",
+      "tags": [
+        "anatomy",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-17T14:15:33Z",
+      "duration": "P0D",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
     {
       "video_id": "dt_Hd6zovjg",
       "content_type": "long",
@@ -7800,5 +7941,5 @@
       "source": "youtube_sync"
     }
   ],
-  "last_sync": "2026-10-10T15:55:09.443194+00:00"
+  "last_sync": "2026-10-17T14:51:41.463250+00:00"
 }
