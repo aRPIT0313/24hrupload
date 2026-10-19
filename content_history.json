@@ -1,21 +1,59 @@
 {
   "shorts": [
     {
-      "video_id": "5wu5xlGUTXY",
+      "video_id": "USiIktN4gWw",
       "content_type": "shorts",
-      "title": "The Bird That Never Lands",
-      "core_subject": "The Bird That Never Lands",
-      "topic": "The Bird That Never Lands",
-      "description": "How do birds sleep without crashing? It's all in the brain. #shorts #science #nature",
+      "title": "The Brainless Navigator of the Ocean",
+      "core_subject": "The Brainless Navigator of the Ocean",
+      "topic": "The Brainless Navigator of the Ocean",
+      "description": "Evolution doesn't always require a brain to master survival. Meet the masters of the decentralized nerve net. #shorts #science #marinebiology",
       "tags": [
-        "nature",
+        "facts",
         "science",
         "shorts"
       ],
-      "publishedAt": "2026-10-17T14:30:22Z",
-      "duration": "PT22S",
-      "views": 120,
-      "likes": 0,
+      "publishedAt": "2026-10-17T18:30:20Z",
+      "duration": "PT26S",
+      "views": 60,
+      "likes": 2,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "AgbtjYVGR1U",
+      "content_type": "shorts",
+      "title": "The Secret Language of Seismic Hearing",
+      "core_subject": "The Secret Language of Seismic Hearing",
+      "topic": "The Secret Language of Seismic Hearing",
+      "description": "Sound travels faster and further through solid ground than through the air. Many animals have evolved to 'hear' the earth itself. #shorts #nature #science",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-17T17:30:05Z",
+      "duration": "PT27S",
+      "views": 39,
+      "likes": 2,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "rVEx-IYFvHk",
+      "content_type": "shorts",
+      "title": "The Evolutionary Mystery of Teeth",
+      "core_subject": "The Evolutionary Mystery of Teeth",
+      "topic": "The Evolutionary Mystery of Teeth",
+      "description": "Your teeth are made of the hardest material in your body, but that strength comes at a permanent price. #shorts #science #anatomy",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-17T16:30:11Z",
+      "duration": "PT24S",
+      "views": 60,
+      "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -31,9 +69,47 @@
         "science",
         "shorts"
       ],
-      "publishedAt": "2026-10-17T14:14:16Z",
+      "publishedAt": "2026-10-17T15:30:40Z",
       "duration": "PT24S",
-      "views": 0,
+      "views": 982,
+      "likes": 8,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "9hJUP9wqpVg",
+      "content_type": "shorts",
+      "title": "Why Identical Twins Don't Have Identical Fingerprints",
+      "core_subject": "Why Identical Twins Don't Have Identical Fingerprints",
+      "topic": "Why Identical Twins Don't Have Identical Fingerprints",
+      "description": "Your DNA isn't the only author of your body. Fingerprints prove that your environment shapes you from day one. #shorts #science #biology",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-17T15:30:02Z",
+      "duration": "PT25S",
+      "views": 982,
+      "likes": 4,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "5wu5xlGUTXY",
+      "content_type": "shorts",
+      "title": "The Bird That Never Lands",
+      "core_subject": "The Bird That Never Lands",
+      "topic": "The Bird That Never Lands",
+      "description": "How do birds sleep without crashing? It's all in the brain. #shorts #science #nature",
+      "tags": [
+        "nature",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-17T14:30:22Z",
+      "duration": "PT22S",
+      "views": 195,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -166,7 +242,7 @@
       ],
       "publishedAt": "2026-10-10T17:30:06Z",
       "duration": "PT25S",
-      "views": 79,
+      "views": 81,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -185,7 +261,7 @@
       ],
       "publishedAt": "2026-10-10T16:30:10Z",
       "duration": "PT25S",
-      "views": 634,
+      "views": 636,
       "likes": 12,
       "comments": 0,
       "source": "youtube_sync"
@@ -299,7 +375,7 @@
       ],
       "publishedAt": "2026-10-09T19:30:33Z",
       "duration": "PT24S",
-      "views": 996,
+      "views": 997,
       "likes": 16,
       "comments": 0,
       "source": "youtube_sync"
@@ -337,7 +413,7 @@
       ],
       "publishedAt": "2026-10-09T17:30:03Z",
       "duration": "PT24S",
-      "views": 428,
+      "views": 429,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -565,7 +641,7 @@
       ],
       "publishedAt": "2026-10-06T19:30:07Z",
       "duration": "PT20S",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -679,7 +755,7 @@
       ],
       "publishedAt": "2026-10-06T02:30:02Z",
       "duration": "PT24S",
-      "views": 76,
+      "views": 77,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -755,7 +831,7 @@
       ],
       "publishedAt": "2026-10-05T21:30:33Z",
       "duration": "PT28S",
-      "views": 64,
+      "views": 66,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -875,25 +951,6 @@
       "source": "youtube_sync"
     },
     {
-      "video_id": "PyfnY9IOvCM",
-      "content_type": "shorts",
-      "title": "The Caffeine-Gut Connection",
-      "core_subject": "The Caffeine-Gut Connection",
-      "topic": "The Caffeine-Gut Connection",
-      "description": "Your morning coffee does more than just wake you up. #shorts #biology #health",
-      "tags": [
-        "facts",
-        "science",
-        "shorts"
-      ],
-      "publishedAt": "2026-10-05T00:30:31Z",
-      "duration": "PT23S",
-      "views": 74,
-      "likes": 0,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
-    {
       "video_id": "ugZbDjPJX1k",
       "content_type": "shorts",
       "title": "Why You Don't See Your Nose",
@@ -926,7 +983,7 @@
       ],
       "publishedAt": "2026-10-04T22:30:15Z",
       "duration": "PT23S",
-      "views": 591,
+      "views": 592,
       "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
@@ -951,6 +1008,25 @@
       "source": "youtube_sync"
     },
     {
+      "video_id": "Q1yfSYgMriQ",
+      "content_type": "shorts",
+      "title": "The Chemistry of Living Light",
+      "core_subject": "The Chemistry of Living Light",
+      "topic": "The Chemistry of Living Light",
+      "description": "Efficiency at its finest. #shorts #nature #science",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T20:30:38Z",
+      "duration": "PT26S",
+      "views": 70,
+      "likes": 2,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
       "video_id": "yRKnOfhNo-4",
       "content_type": "shorts",
       "title": "Animal Stargazers",
@@ -970,6 +1046,25 @@
       "source": "youtube_sync"
     },
     {
+      "video_id": "MqVSfu6x0eI",
+      "content_type": "shorts",
+      "title": "The Paradox of Freezing Water",
+      "core_subject": "The Paradox of Freezing Water",
+      "topic": "The Paradox of Freezing Water",
+      "description": "It sounds impossible, but it is real physics. #shorts #science #physics",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T18:30:12Z",
+      "duration": "PT26S",
+      "views": 110,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
       "video_id": "4Vl0rAdwjHE",
       "content_type": "shorts",
       "title": "Why the Moon Stays Put",
@@ -985,6 +1080,25 @@
       "duration": "PT24S",
       "views": 118,
       "likes": 5,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "_p7VbThdYZs",
+      "content_type": "shorts",
+      "title": "The Physics of Cat Reflexes",
+      "core_subject": "The Physics of Cat Reflexes",
+      "topic": "The Physics of Cat Reflexes",
+      "description": "Cats don't use magic; they use angular momentum. #shorts #science #cats",
+      "tags": [
+        "facts",
+        "science",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-04T16:30:04Z",
+      "duration": "PT26S",
+      "views": 922,
+      "likes": 25,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -1078,7 +1192,7 @@
       ],
       "publishedAt": "2026-10-03T20:30:02Z",
       "duration": "PT25S",
-      "views": 194,
+      "views": 196,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -1268,7 +1382,7 @@
       ],
       "publishedAt": "2026-10-02T14:15:32Z",
       "duration": "PT27S",
-      "views": 189,
+      "views": 190,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -1915,7 +2029,7 @@
       ],
       "publishedAt": "2026-09-24T16:15:32Z",
       "duration": "PT25S",
-      "views": 306,
+      "views": 309,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -2831,7 +2945,7 @@
       ],
       "publishedAt": "2026-09-12T18:08:25Z",
       "duration": "PT26S",
-      "views": 496,
+      "views": 497,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -2869,7 +2983,7 @@
       ],
       "publishedAt": "2026-09-12T16:08:13Z",
       "duration": "PT27S",
-      "views": 571,
+      "views": 572,
       "likes": 8,
       "comments": 0,
       "source": "youtube_sync"
@@ -3144,7 +3258,7 @@
       ],
       "publishedAt": "2026-09-09T17:45:39Z",
       "duration": "PT27S",
-      "views": 950,
+      "views": 951,
       "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
@@ -3313,7 +3427,7 @@
       ],
       "publishedAt": "2026-09-06T15:30:17Z",
       "duration": "PT25S",
-      "views": 75,
+      "views": 77,
       "likes": 7,
       "comments": 0,
       "source": "youtube_sync"
@@ -3445,7 +3559,7 @@
       "tags": [],
       "publishedAt": "2026-09-04T18:43:00Z",
       "duration": "PT25S",
-      "views": 8,
+      "views": 9,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -3637,7 +3751,7 @@
       ],
       "publishedAt": "2026-09-04T00:45:28Z",
       "duration": "PT23S",
-      "views": 241,
+      "views": 242,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -3732,7 +3846,7 @@
       ],
       "publishedAt": "2026-09-03T19:45:27Z",
       "duration": "PT28S",
-      "views": 47,
+      "views": 48,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -3960,7 +4074,7 @@
       "tags": [],
       "publishedAt": "2026-08-31T12:49:16Z",
       "duration": "PT34S",
-      "views": 916,
+      "views": 917,
       "likes": 17,
       "comments": 0,
       "source": "youtube_sync"
@@ -4155,7 +4269,7 @@
       "tags": [],
       "publishedAt": "2026-08-26T14:43:48Z",
       "duration": "PT26S",
-      "views": 61,
+      "views": 62,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -4305,7 +4419,7 @@
       "tags": [],
       "publishedAt": "2026-08-23T18:28:53Z",
       "duration": "PT27S",
-      "views": 924,
+      "views": 925,
       "likes": 15,
       "comments": 0,
       "source": "youtube_sync"
@@ -4545,7 +4659,7 @@
       "tags": [],
       "publishedAt": "2026-08-15T14:06:51Z",
       "duration": "PT30S",
-      "views": 148,
+      "views": 149,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -4785,7 +4899,7 @@
       "tags": [],
       "publishedAt": "2026-07-23T07:31:02Z",
       "duration": "PT21S",
-      "views": 726,
+      "views": 727,
       "likes": 18,
       "comments": 0,
       "source": "youtube_sync"
@@ -7305,7 +7419,7 @@
       "tags": [],
       "publishedAt": "2026-04-25T15:54:27Z",
       "duration": "PT33S",
-      "views": 1257,
+      "views": 1259,
       "likes": 24,
       "comments": 2,
       "source": "youtube_sync"
@@ -7590,65 +7704,27 @@
       "tags": [],
       "publishedAt": "2026-04-17T11:17:44Z",
       "duration": "PT1M7S",
-      "views": 139,
+      "views": 140,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
     },
     {
-      "video_id": "Q1yfSYgMriQ",
+      "video_id": "PyfnY9IOvCM",
       "content_type": "shorts",
-      "title": "The Chemistry of Living Light",
-      "core_subject": "The Chemistry of Living Light",
-      "topic": "The Chemistry of Living Light",
-      "description": "Efficiency at its finest. #shorts #nature #science",
+      "title": "The Caffeine-Gut Connection",
+      "core_subject": "The Caffeine-Gut Connection",
+      "topic": "The Caffeine-Gut Connection",
+      "description": "Your morning coffee does more than just wake you up. #shorts #biology #health",
       "tags": [
         "facts",
         "science",
         "shorts"
       ],
-      "publishedAt": "2026-10-04T20:30:38Z",
-      "duration": "PT26S",
-      "views": 70,
-      "likes": 2,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
-    {
-      "video_id": "MqVSfu6x0eI",
-      "content_type": "shorts",
-      "title": "The Paradox of Freezing Water",
-      "core_subject": "The Paradox of Freezing Water",
-      "topic": "The Paradox of Freezing Water",
-      "description": "It sounds impossible, but it is real physics. #shorts #science #physics",
-      "tags": [
-        "facts",
-        "science",
-        "shorts"
-      ],
-      "publishedAt": "2026-10-04T18:30:12Z",
-      "duration": "PT26S",
-      "views": 110,
+      "publishedAt": "2026-10-05T00:30:31Z",
+      "duration": "PT23S",
+      "views": 74,
       "likes": 0,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
-    {
-      "video_id": "_p7VbThdYZs",
-      "content_type": "shorts",
-      "title": "The Physics of Cat Reflexes",
-      "core_subject": "The Physics of Cat Reflexes",
-      "topic": "The Physics of Cat Reflexes",
-      "description": "Cats don't use magic; they use angular momentum. #shorts #science #cats",
-      "tags": [
-        "facts",
-        "science",
-        "shorts"
-      ],
-      "publishedAt": "2026-10-04T16:30:04Z",
-      "duration": "PT26S",
-      "views": 922,
-      "likes": 25,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -7811,71 +7887,71 @@
       "source": "app_upload"
     },
     {
-      "video_id": "9hJUP9wqpVg",
+      "video_id": "nh2NcVyZL8I",
       "content_type": "shorts",
-      "title": "Why Identical Twins Don't Have Identical Fingerprints",
-      "core_subject": "developmental biology of fingerprints",
-      "topic": "The real reason your fingerprints don't match your twin's.",
+      "title": "Why Your Brain Hallucinates When You Blink",
+      "core_subject": "Neurological visual stabilization during blinking",
+      "topic": "Why your brain hallucinates a stable world when you blink",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Your unique fingerprints are actually born from random fetal movement.",
-      "cta": "Subscribe—your body has secrets your DNA cannot write.",
-      "specific_angle": "environmental factors during gestation override genetics",
-      "primary_entity": "human fingerprints",
-      "knowledge_gap": "random fetal movement shapes unique friction ridges",
-      "subject_fingerprint": "biology developmental don during environmental factor fetal fingerprint friction genetic gestation human match movement override random reason ridge s shape t twin unique",
+      "selected_hook": "Your brain actively hallucinates every single time you blink.",
+      "cta": "Subscribe—there is a stranger illusion hiding inside your own skull.",
+      "specific_angle": "How the brain actively fills in missing visual data during a blink",
+      "primary_entity": "Human visual cortex",
+      "knowledge_gap": "Your brain creates a conscious hallucination to hide the darkness of blinking.",
+      "subject_fingerprint": "actively blink blinking brain consciou cortex create darkness data during fill hallucinate hallucination hide human missing neurological stabilization stable visual",
       "source": "app_upload"
     },
     {
-      "video_id": "rVEx-IYFvHk",
+      "video_id": "sSbZ5yHAxMI",
       "content_type": "shorts",
-      "title": "The Evolutionary Mystery of Teeth",
-      "core_subject": "dental anatomy and regeneration",
-      "topic": "Why are your teeth the only part of you that can’t heal?",
+      "title": "Chameleons Don't Use Pigment to Change Color",
+      "core_subject": "Nanocrystal lattice color shifting in chameleons",
+      "topic": "Why chameleon skin changes color using structural crystals, not pigments",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Your teeth are the only body part that cannot repair themselves.",
-      "cta": "Subscribe—your body is built to fail eventually.",
-      "specific_angle": "enamel is non-living tissue lacking cells",
-      "primary_entity": "human teeth",
-      "knowledge_gap": "enamel has no living cells to repair damage",
-      "subject_fingerprint": "anatomy cell damage dental enamel has heal human lacking living no non only part regeneration repair t teeth tissue",
+      "selected_hook": "Chameleons do not use pigments to change their color.",
+      "cta": "Subscribe—nature builds technology stranger than human engineering.",
+      "specific_angle": "How guanine crystals bend light to produce shifting skin colors without ink",
+      "primary_entity": "Panther chameleon",
+      "knowledge_gap": "Chameleons change color by physically altering microscopic light crystals, not by using biological ink.",
+      "subject_fingerprint": "altering bend biological by chameleon change color crystal guanine ink lattice light microscopic nanocrystal not panther physically pigment produce shifting skin structural using without",
       "source": "app_upload"
     },
     {
-      "video_id": "AgbtjYVGR1U",
+      "video_id": "R4zuj4BEU_o",
       "content_type": "shorts",
-      "title": "The Secret Language of Seismic Hearing",
-      "core_subject": "seismic communication in animals",
-      "topic": "How do animals 'hear' through their feet?",
+      "title": "The Beetle That Fires Boiling Chemical Explosions",
+      "core_subject": "Exothermic chemical reaction defense mechanism in bombardier beetles",
+      "topic": "How bombardier beetles shoot boiling chemical sprays at predators",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Some animals don't use their ears to hear; they use feet.",
-      "cta": "Subscribe—the earth is constantly whispering to those who listen.",
-      "specific_angle": "mechanoreceptors detect vibrations in the ground",
-      "primary_entity": "elephants or spiders",
-      "knowledge_gap": "vibrations travel through the ground to nerves",
-      "subject_fingerprint": "animal communication detect elephant feet ground hear mechanoreceptor nerve seismic spider their through travel vibration",
+      "selected_hook": "This tiny beetle weaponizes a boiling chemical explosion.",
+      "cta": "Subscribe—nature evolved artillery millions of years before humans.",
+      "specific_angle": "How mixing hydroquinones and hydrogen peroxide creates a 100-degree chemical blast",
+      "primary_entity": "Bombardier beetle",
+      "knowledge_gap": "The bombardier beetle mixes two volatile chemicals inside an internal combustion chamber to fire boiling liquid.",
+      "subject_fingerprint": "100 at beetle blast boiling bombardier chamber chemical combustion create defense degree exothermic fire hydrogen hydroquinone inside internal liquid mechanism mixe mixing peroxide predator reaction shoot spray volatile",
       "source": "app_upload"
     },
     {
-      "video_id": "USiIktN4gWw",
+      "video_id": "gsIFQCe4-Og",
       "content_type": "shorts",
-      "title": "The Brainless Navigator of the Ocean",
-      "core_subject": "decentralized nervous systems",
-      "topic": "How do jellyfish navigate without a brain?",
+      "title": "Why Water Striders Never Sink",
+      "core_subject": "Surface tension micro-hairs and momentum transfer in water striders",
+      "topic": "The bizarre physics of how water striders walk on ponds",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "How do jellyfish navigate the ocean without a single brain?",
-      "cta": "Subscribe—the ocean is full of sentient-looking machines.",
-      "specific_angle": "nerve nets respond to environmental stimuli instead of processing thought",
-      "primary_entity": "jellyfish",
-      "knowledge_gap": "distributed nerve nets act like a brain",
-      "subject_fingerprint": "act brain decentralized distributed environmental instead jellyfish like navigate nerve nervou nets processing respond stimuli system thought without",
+      "selected_hook": "Water striders do not actually walk on top of water.",
+      "cta": "Subscribe—physics lets these insects run where humans would instantly plunge.",
+      "specific_angle": "How microscopic leg hairs trap air and row against water surface tension without breaking it",
+      "primary_entity": "Water strider",
+      "knowledge_gap": "Water striders use thousands of microscopic leg hairs to bounce off water surface tension like a trampoline.",
+      "subject_fingerprint": "against air bizarre bounce breaking hair it leg like micro microscopic momentum off physic pond row strider surface tension thousand trampoline transfer trap use walk water without",
       "source": "app_upload"
     }
   ],
@@ -7941,5 +8017,5 @@
       "source": "youtube_sync"
     }
   ],
-  "last_sync": "2026-10-17T14:51:41.463250+00:00"
+  "last_sync": "2026-10-19T17:03:58.000144+00:00"
 }
