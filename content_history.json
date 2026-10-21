@@ -1,6 +1,82 @@
 {
   "shorts": [
     {
+      "video_id": "28WzORQct7g",
+      "content_type": "shorts",
+      "title": "How Insects Survive Deep Freezing Temperatures",
+      "core_subject": "How Insects Survive Deep Freezing Temperatures",
+      "topic": "How Insects Survive Deep Freezing Temperatures",
+      "description": "It’s not magic; it’s biochemistry. Insects have developed biological antifreeze to survive the harshest winters.",
+      "tags": [
+        "biology",
+        "insects",
+        "science"
+      ],
+      "publishedAt": "2026-10-20T18:30:17Z",
+      "duration": "PT21S",
+      "views": 74,
+      "likes": 1,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "BLppAOaTCpQ",
+      "content_type": "shorts",
+      "title": "The Hidden Defense System in Autumn Leaves",
+      "core_subject": "The Hidden Defense System in Autumn Leaves",
+      "topic": "The Hidden Defense System in Autumn Leaves",
+      "description": "Autumn leaves don't just change color; they are fighting to save their own fuel.",
+      "tags": [
+        "autumn",
+        "biology",
+        "nature"
+      ],
+      "publishedAt": "2026-10-20T17:30:24Z",
+      "duration": "PT21S",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "hP--yT9THeo",
+      "content_type": "shorts",
+      "title": "The Optical Illusion That Isn't Actually Flipping",
+      "core_subject": "The Optical Illusion That Isn't Actually Flipping",
+      "topic": "The Optical Illusion That Isn't Actually Flipping",
+      "description": "Your brain tricks you into thinking your reflection is a person facing you. It's not.",
+      "tags": [
+        "illusion",
+        "optics",
+        "physics"
+      ],
+      "publishedAt": "2026-10-20T16:30:14Z",
+      "duration": "PT19S",
+      "views": 35,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
+      "video_id": "YZfFprwDJII",
+      "content_type": "shorts",
+      "title": "Gravity Distorts Your Entire Perception of Time",
+      "core_subject": "Gravity Distorts Your Entire Perception of Time",
+      "topic": "Gravity Distorts Your Entire Perception of Time",
+      "description": "Gravity doesn't just pull you down; it pulls on the fabric of time itself.",
+      "tags": [
+        "physics",
+        "science",
+        "space"
+      ],
+      "publishedAt": "2026-10-20T15:30:24Z",
+      "duration": "PT26S",
+      "views": 14,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
       "video_id": "gsIFQCe4-Og",
       "content_type": "shorts",
       "title": "Why Water Striders Never Sink",
@@ -15,7 +91,7 @@
       ],
       "publishedAt": "2026-10-19T20:30:14Z",
       "duration": "PT26S",
-      "views": 36,
+      "views": 47,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -35,7 +111,7 @@
       ],
       "publishedAt": "2026-10-19T19:30:07Z",
       "duration": "PT28S",
-      "views": 36,
+      "views": 41,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -55,7 +131,7 @@
       ],
       "publishedAt": "2026-10-19T18:30:03Z",
       "duration": "PT27S",
-      "views": 24,
+      "views": 28,
       "likes": 1,
       "comments": 0,
       "source": "youtube_sync"
@@ -170,7 +246,7 @@
       ],
       "publishedAt": "2026-10-17T15:30:02Z",
       "duration": "PT25S",
-      "views": 982,
+      "views": 984,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -898,25 +974,6 @@
       "source": "youtube_sync"
     },
     {
-      "video_id": "5ZzQJsMNYso",
-      "content_type": "shorts",
-      "title": "How Jellyfish Breathe Without Blood",
-      "core_subject": "How Jellyfish Breathe Without Blood",
-      "topic": "How Jellyfish Breathe Without Blood",
-      "description": "Why jellyfish don't need blood to stay alive.",
-      "tags": [
-        "marinebiology",
-        "science",
-        "shorts"
-      ],
-      "publishedAt": "2026-10-05T21:30:33Z",
-      "duration": "PT28S",
-      "views": 66,
-      "likes": 0,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
-    {
       "video_id": "dh8OYMGz02o",
       "content_type": "shorts",
       "title": "How Soap Destroys Grease",
@@ -1348,7 +1405,7 @@
       ],
       "publishedAt": "2026-10-03T13:27:47Z",
       "duration": "PT29S",
-      "views": 1059,
+      "views": 1062,
       "likes": 11,
       "comments": 0,
       "source": "youtube_sync"
@@ -1519,7 +1576,7 @@
       ],
       "publishedAt": "2026-10-01T16:15:14Z",
       "duration": "PT28S",
-      "views": 589,
+      "views": 590,
       "likes": 10,
       "comments": 0,
       "source": "youtube_sync"
@@ -2088,7 +2145,7 @@
       ],
       "publishedAt": "2026-09-25T06:30:25Z",
       "duration": "PT27S",
-      "views": 977,
+      "views": 978,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -2218,7 +2275,7 @@
       ],
       "publishedAt": "2026-09-23T08:00:35Z",
       "duration": "PT22S",
-      "views": 375,
+      "views": 377,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -2841,6 +2898,25 @@
       "source": "youtube_sync"
     },
     {
+      "video_id": "0F_-s9F_3BQ",
+      "content_type": "shorts",
+      "title": "The AI that successfully identified a new antibiotic in a 2024 drug breakthrough",
+      "core_subject": "The AI that successfully identified a new antibiotic in a 2024 drug breakthrough",
+      "topic": "The AI that successfully identified a new antibiotic in a 2024 drug breakthrough",
+      "description": "How AI is winning the war against superbugs. #AI #Medicine #Tech #Innovation",
+      "tags": [
+        "AI",
+        "FutureTech",
+        "Medicine"
+      ],
+      "publishedAt": "2026-09-15T13:15:17Z",
+      "duration": "PT29S",
+      "views": 17,
+      "likes": 0,
+      "comments": 0,
+      "source": "youtube_sync"
+    },
+    {
       "video_id": "JYHRfJn99eY",
       "content_type": "shorts",
       "title": "The 'Green Children' of Woolpit: A 12th-century mystery of two children who appeared with green skin",
@@ -3025,7 +3101,7 @@
       ],
       "publishedAt": "2026-09-12T18:08:25Z",
       "duration": "PT26S",
-      "views": 498,
+      "views": 499,
       "likes": 4,
       "comments": 0,
       "source": "youtube_sync"
@@ -3082,7 +3158,7 @@
       ],
       "publishedAt": "2026-09-12T15:08:14Z",
       "duration": "PT30S",
-      "views": 1078,
+      "views": 1079,
       "likes": 20,
       "comments": 0,
       "source": "youtube_sync"
@@ -3120,7 +3196,7 @@
       ],
       "publishedAt": "2026-09-11T16:36:06Z",
       "duration": "PT28S",
-      "views": 958,
+      "views": 959,
       "likes": 10,
       "comments": 0,
       "source": "youtube_sync"
@@ -3848,7 +3924,7 @@
       ],
       "publishedAt": "2026-09-03T22:45:11Z",
       "duration": "PT27S",
-      "views": 19,
+      "views": 23,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -3867,7 +3943,7 @@
       ],
       "publishedAt": "2026-09-03T21:45:20Z",
       "duration": "PT29S",
-      "views": 17,
+      "views": 18,
       "likes": 2,
       "comments": 0,
       "source": "youtube_sync"
@@ -4269,7 +4345,7 @@
       "publishedAt": "2026-08-28T17:57:13Z",
       "duration": "PT28S",
       "views": 1022,
-      "likes": 11,
+      "likes": 10,
       "comments": 0,
       "source": "youtube_sync"
     },
@@ -4673,7 +4749,7 @@
       "tags": [],
       "publishedAt": "2026-08-17T07:11:31Z",
       "duration": "PT37S",
-      "views": 276,
+      "views": 277,
       "likes": 5,
       "comments": 0,
       "source": "youtube_sync"
@@ -5198,7 +5274,7 @@
       "tags": [],
       "publishedAt": "2026-07-13T10:14:53Z",
       "duration": "PT15S",
-      "views": 142,
+      "views": 143,
       "likes": 3,
       "comments": 0,
       "source": "youtube_sync"
@@ -5243,7 +5319,7 @@
       "tags": [],
       "publishedAt": "2026-07-12T10:29:36Z",
       "duration": "PT19S",
-      "views": 121,
+      "views": 122,
       "likes": 3,
       "comments": 1,
       "source": "youtube_sync"
@@ -7599,7 +7675,7 @@
       "publishedAt": "2026-04-22T16:09:40Z",
       "duration": "PT22S",
       "views": 866,
-      "likes": 34,
+      "likes": 33,
       "comments": 2,
       "source": "youtube_sync"
     },
@@ -7769,20 +7845,20 @@
       "source": "youtube_sync"
     },
     {
-      "video_id": "0F_-s9F_3BQ",
+      "video_id": "5ZzQJsMNYso",
       "content_type": "shorts",
-      "title": "The AI that successfully identified a new antibiotic in a 2024 drug breakthrough",
-      "core_subject": "The AI that successfully identified a new antibiotic in a 2024 drug breakthrough",
-      "topic": "The AI that successfully identified a new antibiotic in a 2024 drug breakthrough",
-      "description": "How AI is winning the war against superbugs. #AI #Medicine #Tech #Innovation",
+      "title": "How Jellyfish Breathe Without Blood",
+      "core_subject": "How Jellyfish Breathe Without Blood",
+      "topic": "How Jellyfish Breathe Without Blood",
+      "description": "Why jellyfish don't need blood to stay alive.",
       "tags": [
-        "AI",
-        "FutureTech",
-        "Medicine"
+        "marinebiology",
+        "science",
+        "shorts"
       ],
-      "publishedAt": "2026-09-15T13:15:17Z",
-      "duration": "PT29S",
-      "views": 17,
+      "publishedAt": "2026-10-05T21:30:33Z",
+      "duration": "PT28S",
+      "views": 66,
       "likes": 0,
       "comments": 0,
       "source": "youtube_sync"
@@ -7967,94 +8043,75 @@
       "source": "app_upload"
     },
     {
-      "video_id": "YZfFprwDJII",
+      "video_id": "C7afBDUJ2XA",
       "content_type": "shorts",
-      "title": "Gravity Distorts Your Entire Perception of Time",
-      "core_subject": "General Relativity and gravitational time dilation",
-      "topic": "Why does time pass slower near heavy objects?",
+      "title": "Why Tardigrades Can't Die",
+      "core_subject": "Tardigrade cryptobiosis mechanism",
+      "topic": "The mystery of the 'un-killable' tardigrade",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Gravity actually bends time, making your feet age differently than your head.",
-      "cta": "Subscribe—and discover how physics warps your reality every single second.",
-      "specific_angle": "How massive objects physically stretch the fabric of spacetime",
-      "primary_entity": "A clock near a massive planet",
-      "knowledge_gap": "Gravity is not just a force, it is a curvature of time itself.",
-      "subject_fingerprint": "clock curvature dilation fabric force general gravitational gravity heavy it itself massive near not object pass physically planet relativity slower spacetime stretch time",
+      "selected_hook": "Nature created a creature that essentially turns into glass to survive.",
+      "cta": "Subscribe—there are even tougher secrets hiding in the microscopic world.",
+      "specific_angle": "How dehydration triggers molecular glass formation",
+      "primary_entity": "Tardigrade",
+      "knowledge_gap": "They turn into glass to survive extreme conditions",
+      "subject_fingerprint": "condition cryptobiosi dehydration extreme formation glass killable mechanism molecular survive tardigrade they trigger turn un",
       "source": "app_upload"
     },
     {
-      "video_id": "hP--yT9THeo",
+      "video_id": "Eie_v_Ig-OU",
       "content_type": "shorts",
-      "title": "The Optical Illusion That Isn't Actually Flipping",
-      "core_subject": "Mirror image orientation and symmetry",
-      "topic": "Why do mirrors flip horizontally but not vertically?",
+      "title": "Your Body Has A Second Brain",
+      "core_subject": "Enteric nervous system function",
+      "topic": "Why we have a second brain in our gut",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Your mirror doesn't actually flip you left to right at all.",
-      "cta": "Subscribe—before your own reflection confuses you.",
-      "specific_angle": "Mirrors actually flip front-to-back, not side-to-side",
-      "primary_entity": "A person looking into a mirror",
-      "knowledge_gap": "Mirrors don't swap left and right; they swap your front and back.",
-      "subject_fingerprint": "back but don flip front horizontally image left looking mirror not orientation right side swap symmetry t they vertically",
+      "selected_hook": "Your gut contains more neurons than a cat's entire brain.",
+      "cta": "Subscribe—your body has many more hidden systems to reveal.",
+      "specific_angle": "The connection between gut neurons and mood",
+      "primary_entity": "Enteric Nervous System",
+      "knowledge_gap": "The gut contains 500 million neurons independent of the head",
+      "subject_fingerprint": "500 between brain connection contain enteric function gut have head independent million mood nervou neuron our second system we",
       "source": "app_upload"
     },
     {
-      "video_id": "BLppAOaTCpQ",
+      "video_id": "wYWxw-WlJjA",
       "content_type": "shorts",
-      "title": "The Hidden Defense System in Autumn Leaves",
-      "core_subject": "Plant physiology and anthocyanin production",
-      "topic": "Why leaves turn red before they fall",
+      "title": "The Platypus Sixth Sense",
+      "core_subject": "Platypus electroreception mechanism",
+      "topic": "How the platypus senses prey",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "The red color in autumn leaves is actually a plant sunblock.",
-      "cta": "Subscribe—there is more to nature's cycle than you think.",
-      "specific_angle": "Red leaves are actually a sunblock to protect tree nutrients",
-      "primary_entity": "A maple leaf changing color",
-      "knowledge_gap": "The red color is a chemical shield against intense autumn sun.",
-      "subject_fingerprint": "against anthocyanin autumn before changing chemical color fall intense leaf leave maple nutrient physiology plant production protect red shield sun sunblock they tree turn",
+      "selected_hook": "A platypus hunts underwater with its eyes and ears closed.",
+      "cta": "Subscribe—the platypus is even weirder than you think.",
+      "specific_angle": "Detecting muscle contractions through electrical fields",
+      "primary_entity": "Platypus",
+      "knowledge_gap": "They hunt with eyes, ears, and nostrils closed",
+      "subject_fingerprint": "closed contraction detecting ears electrical electroreception eyes field hunt mechanism muscle nostril platypu prey sense they through",
       "source": "app_upload"
     },
     {
-      "video_id": "28WzORQct7g",
+      "video_id": "Qeodm5jEjH8",
       "content_type": "shorts",
-      "title": "How Insects Survive Deep Freezing Temperatures",
-      "core_subject": "Cryoprotectants in insect physiology",
-      "topic": "Why do some insects have 'built-in' antifreeze?",
+      "title": "Why Deep Sea Animals Are Invisible",
+      "core_subject": "Deep-sea transparency as camouflage",
+      "topic": "Why some deep-sea animals are clear",
       "category": "",
       "hook_style": "",
       "quality_score": 0.0,
-      "selected_hook": "Some insects literally turn into ice pops and survive it.",
-      "cta": "Subscribe—insects are far more resilient than they appear.",
-      "specific_angle": "Insects use sugar-based antifreeze to prevent blood crystallization",
-      "primary_entity": "A winter-active beetle or larva",
-      "knowledge_gap": "Insects prevent ice needles from forming in their cells to stay alive.",
-      "subject_fingerprint": "active alive antifreeze based beetle blood built cell cryoprotectant crystallization forming have ice insect larva needle physiology prevent some stay sugar their use winter",
+      "selected_hook": "Nature's best camouflage is having no color at all.",
+      "cta": "Subscribe—there is more to discover in the ocean's depths.",
+      "specific_angle": "Refractive index matching in deep water",
+      "primary_entity": "Glass Squid / Jellyfish",
+      "knowledge_gap": "Being clear prevents shadows that reveal position",
+      "subject_fingerprint": "animal as being camouflage clear deep glass index jellyfish matching position prevent refractive reveal sea shadow some squid transparency water",
       "source": "app_upload"
     }
   ],
   "long": [
-    {
-      "video_id": "j-DntBZysQk",
-      "content_type": "long",
-      "title": "Your Body's Sleeping Bodyguard",
-      "core_subject": "Your Body's Sleeping Bodyguard",
-      "topic": "Your Body's Sleeping Bodyguard",
-      "description": "Your brain never really sleeps—it's always guarding your balance. #shorts #science #anatomy",
-      "tags": [
-        "anatomy",
-        "science",
-        "shorts"
-      ],
-      "publishedAt": "2026-10-17T14:15:33Z",
-      "duration": "P0D",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "source": "youtube_sync"
-    },
     {
       "video_id": "dt_Hd6zovjg",
       "content_type": "long",
@@ -8097,5 +8154,5 @@
       "source": "youtube_sync"
     }
   ],
-  "last_sync": "2026-10-20T15:13:59.719958+00:00"
+  "last_sync": "2026-10-21T15:25:08.127050+00:00"
 }
